@@ -1,0 +1,17 @@
+package com.app.exception;
+
+public class BusineesException extends Exception{
+
+	public BusineesException() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	public BusineesException(String message) {
+		super(message);
+		// TODO Auto-generated constructor stub
+	}
+
+	
+
+}

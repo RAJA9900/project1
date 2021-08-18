@@ -1,0 +1,8 @@
+package com.app.serviceimpl;
+
+import com.app.service.Users;
+
+public class UserImpl implements Users {
+	
+
+}

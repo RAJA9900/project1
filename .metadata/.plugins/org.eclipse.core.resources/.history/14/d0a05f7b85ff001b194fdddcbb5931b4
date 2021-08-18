@@ -1,0 +1,12 @@
+package com.app.model;
+
+public class user_type {
+    
+	private type_id;
+	private type_name;
+	
+	
+	
+	
+	
+}

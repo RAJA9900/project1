@@ -1,0 +1,7 @@
+package com.app.search.service;
+
+public interface Users {
+	
+	int createUser()
+
+}

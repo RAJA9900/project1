@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1629133946408_0" label="Java Main Sources" name="Java Main Sources">
+<item elementID="=my_shopping_app/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=my_shopping_app/src\/main\/resources=/maven.pomderived=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Task/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=demo_2/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=demo_2/src\/main\/resources=/maven.pomderived=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=demo_maven/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=demo_maven/src\/main\/resources=/maven.pomderived=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=demo_maven2/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=demo_maven2/src\/main\/resources=/maven.pomderived=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1629133946564_1" label="Java Test Sources" name="Java Test Sources">
+<item elementID="=my_shopping_app/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=my_shopping_app/src\/test\/resources=/maven.pomderived=/true=/=/test=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=demo_2/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=demo_2/src\/test\/resources=/maven.pomderived=/true=/=/test=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=demo_maven/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=demo_maven/src\/test\/resources=/maven.pomderived=/true=/=/test=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=demo_maven2/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=demo_maven2/src\/test\/resources=/maven.pomderived=/true=/=/test=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1629133956580_2" label="Window Working Set" name="Aggregate for window 1629133956580"/>
+</workingSetManager>

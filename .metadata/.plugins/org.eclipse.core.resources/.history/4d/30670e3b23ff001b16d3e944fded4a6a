@@ -1,0 +1,12 @@
+package com.app.search.service;
+
+import com.app.exception.BusineesException;
+import com.app.model.User;
+
+public interface Users {
+	
+	int createUser(User user) throws BusineesException;
+	
+	
+
+}

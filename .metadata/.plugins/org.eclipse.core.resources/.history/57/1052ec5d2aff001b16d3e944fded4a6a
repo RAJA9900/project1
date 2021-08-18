@@ -1,0 +1,20 @@
+package com.app.serviceimpl;
+
+import com.app.dao.UsersDAO;
+import com.app.daoimpl.UsersDAOImpl;
+import com.app.exception.BusineesException;
+import com.app.model.User;
+import com.app.service.Users;
+
+public class UsersImpl implements Users {
+	UsersDAO usersDAO = new UsersDAOImpl();
+
+	@Override
+	public int createUser(User user) throws BusineesException {
+		int createUser = 0;
+		createUser = usersDAO.createUsers(user);
+
+		return createUser;
+	}
+
+}

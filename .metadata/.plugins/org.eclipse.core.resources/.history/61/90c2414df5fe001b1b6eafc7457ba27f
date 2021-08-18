@@ -1,0 +1,141 @@
+package com.app;
+
+import java.util.*;
+import org.apache.log4j.Logger;
+
+import com.app.exception.BusineesException;
+
+import com.app.model.Player;
+
+import com.app.search.service.PlayerSearchservice;
+import com.app.search.serviceimpl.PlayerSearchServiceImpl;
+
+public class Main {
+
+	private static Logger log = Logger.getLogger(Main.class);
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+
+		log.info("Welcome to player app 1.0");
+		log.info("===========================");
+
+		int ch = 0;
+		do {
+			log.info("What you wish to do today");
+			log.info("1) Create a Player");
+			log.info("2) Update a Player");
+			log.info("3) Delete a Player");
+			log.info("4) List all Player");
+			log.info("5) Search a player wuith various filter");
+			log.info("6)Exit ");
+			log.info("please Enter your choice(1-6)");
+
+			try {
+				ch = Integer.parseInt(scanner.nextLine());
+			} catch (NumberFormatException e) {
+
+			}
+
+			switch (ch) {
+			case 1:
+				log.info("Under Construction");
+
+				break;
+			case 2:
+				log.info("Under Construction");
+
+				break;
+			case 3:
+				log.info("Under Construction");
+
+				break;
+			case 4:
+				log.info("Under Construction");
+
+				break;
+			case 5:
+				int option = 0;
+				PlayerSearchservice playerSearchservice=new PlayerSearchServiceImpl();
+				
+				do {
+					log.info("Welcome to player Search menu......Search your player by various factors from below Menu option");
+					log.info("1)By player Id");
+					log.info("2)By player Nmae");
+					log.info("3)By player Age");
+					log.info("4)By player Gender");
+					log.info("5)By player City");
+					log.info("6)By TeamName");
+					log.info("7)By SportsName");
+					log.info("8)By player Contact");
+					log.info("9)Go back to main Menu");
+					log.info("please Enter your choice(1-6)");
+					try {
+						option = Integer.parseInt(scanner.nextLine());
+					} catch (NumberFormatException e) {
+
+					}
+					switch (option) {
+					case 1:log.info("Enter the id to search");
+					try
+					{
+						int id=Integer.parseInt(scanner.nextLine());
+						
+						Player player=playerSearchservice.getPlayerById(id);
+						if(player!=null) {
+							log.info("Player with id "+id+" found successfully... Below is the details");
+							log.info(player);
+						}
+					}catch(NumberFormatException e) {
+							log.warn("Player Id should be digit only... Try Again");
+						} catch (BusineesException e) {
+							log.warn(e.getMessage());
+						}
+				
+						break;
+					case 2:
+
+						break;
+					case 3:
+
+						break;
+					case 4:
+
+						break;
+					case 5:
+
+						break;
+					case 6:
+
+						break;
+					case 7:
+
+						break;
+					case 8:
+
+						break;
+					case 9:
+
+						break;
+
+					default:
+						log.warn("Invalid Search....search should be only no(1-9)");
+						break;
+					}
+				} while (option != 9);
+
+				break;
+			case 6:
+				log.info("Thanks for using this App we will see you soon ");
+
+				break;
+
+			default:
+				log.warn("Invalid choice....choice should be only no(1-6)");
+				break;
+			}
+		} while (ch != 6);
+
+	}
+
+}
