@@ -1,5 +1,6 @@
 package com.app.main;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
@@ -113,7 +114,7 @@ public class Main {
 				break;
 
 			case 2:
-
+				int choice=0;
 				try {
 					// User user = new User();
 
@@ -164,8 +165,9 @@ public class Main {
 					log.info("==============================");
 
 					log.info("Enter your choice Between (1-4)");
+					
 					try {
-						ch = Integer.parseInt(scanner.nextLine());
+						 choice = Integer.parseInt(scanner.nextLine());
 					} catch (NumberFormatException e) {
 
 					}
@@ -173,7 +175,7 @@ public class Main {
 					log.info("Oops...wrong try....");
 				}
 				// }while(ch!=6);
-				switch (ch) {
+				switch (choice) {
 				case 1:
 					//Product product = new Product();
 					log.info("Add product");
@@ -210,10 +212,10 @@ public class Main {
 					
 					try {
 						List<Product> productList = productService.getAllProducts();
-						log.info(productList);
+						//log.info(productList);
 						for (Product products :productList){
-							System.out.println(products);
-							log.info("ProductList");
+							//System.out.println(products);
+							//log.info("ProductList");
 							log.info(products);
 						}
 					} catch (BusinessException e) {
@@ -318,8 +320,22 @@ public class Main {
 				}
 
 				switch (ch) {
-				case 1:
-
+				case 1:log.info("************Products************");
+					
+					List<Product> productList=new ArrayList<>();
+					try {
+						productList = productService.getAllProducts();
+						log.info("productList");
+						for(Product products:productList)
+						{
+							log.info(products);
+						}	
+						log.info("add to cart");
+					} catch (BusinessException e) {
+						log.info(e.getMessage());
+					}
+						
+					
 					break;
 				case 2:
 

@@ -14,6 +14,7 @@ import com.app.dao.dbutil.MySqlDbConnection;
 import com.app.exception.BusinessException;
 
 import com.app.model.Product;
+import com.app.model.ProductType;
 //import com.app.model.ProductType;
 
 public class ProductDAOImpl implements ProductDAO {
@@ -73,6 +74,41 @@ public class ProductDAOImpl implements ProductDAO {
 
 	@Override
 	public List<Product> getAllProducts() throws BusinessException {
+		List<Product> productList=new ArrayList<>();
+		Product product =new Product();
+		try(Connection connection =MySqlDbConnection.getConnection())
+		{
+			String sql="select p.pr_id,pr_name,pr_price,pt.pr_type_name from product p join product_type pt on p.pr_type_id=pt.pr_type_id where pr_id>0";
+			//String sql="select pr_id,pr_name,pr_price from product;";
+			PreparedStatement preparedStatement=connection.prepareStatement(sql);
+			ResultSet resultSet=preparedStatement.executeQuery();
+			//log.info(resultSet);
+			while(resultSet.next())
+			{
+			  product.setPr_id(resultSet.getInt("pr_id"));
+			  product.setPr_name(resultSet.getString("pr_name"));
+			  product.setPr_price(resultSet.getDouble("pr_price"));
+			 
+			  ProductType productType=new ProductType();
+				productType.setPr_type_name(resultSet.getString("pr_type_name"));
+				product.setProductType(productType);
+				 productList.add(product);
+			}
+			
+		}
+		catch(ClassNotFoundException e)
+		{
+			 throw new BusinessException("Internal Error Occured,Please contact sysadmin");
+		}
+		catch ( SQLException e) {
+			log.error(e);
+			throw new BusinessException("Internal Error Occured  SysAdmin");
+		}
+		return productList;
+	
+
+	/*@Override
+	public List<Product> getAllProducts() throws BusinessException {
         List<Product> productList =new ArrayList<>();
         Product product=new Product();
         try(Connection connection =MySqlDbConnection.getConnection()){
@@ -113,18 +149,22 @@ public class ProductDAOImpl implements ProductDAO {
 		
 	
 	}
-   /*  try(Connection connection =MySqlDbConnection.getConnection()){
+    try(Connection connection =MySqlDbConnection.getConnection()){
     	String sql="select pr_id,pr_name,pr_price from product"; 
     	PreparedStatement preparedStatement=
     	 
      } catch (ClassNotFoundException | SQLException e) {
 		
-	}*/
+	}
      
     	 
      
+	*/
 	
 	
 	
 	}
+	
+}
+
 	

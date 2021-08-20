@@ -3669,3 +3669,396 @@
 [main] 2021-08-19 11:08:09 INFO  com.app.main.Main  - 4.Exit
 [main] 2021-08-19 11:08:09 INFO  com.app.main.Main  - ----------------------------
 [main] 2021-08-19 11:08:09 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-20 09:06:32 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:06:32 INFO  com.app.main.Main  - Welcome to Safe Buy app 1.0
+[main] 2021-08-20 09:06:32 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:06:32 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:06:32 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-20 09:06:32 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-20 09:06:32 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:06:32 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-20 09:06:32 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-20 09:06:32 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-20 09:06:32 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-20 09:06:32 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:06:32 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-20 09:06:51 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-20 09:06:51 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-20 09:06:51 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-20 09:06:51 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-20 09:07:01 INFO  com.app.main.Main  - Password
+[main] 2021-08-20 09:07:11 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-20 09:07:11 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-20 09:07:11 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 09:07:11 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-20 09:07:11 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-20 09:07:11 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-20 09:07:11 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-20 09:07:11 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-20 09:07:11 INFO  com.app.main.Main  - 2 . See a products
+[main] 2021-08-20 09:07:11 INFO  com.app.main.Main  - 3 . Delete a product
+[main] 2021-08-20 09:07:11 INFO  com.app.main.Main  - 4 . Search the Details
+[main] 2021-08-20 09:07:11 INFO  com.app.main.Main  - 5 . Update the Status
+[main] 2021-08-20 09:07:11 INFO  com.app.main.Main  - 6 . Exit 
+[main] 2021-08-20 09:07:11 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-20 09:07:11 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-20 09:07:11 INFO  com.app.main.Main  - See All the Product List
+[main] 2021-08-20 09:07:11 WARN  com.app.main.Main  - Internal Error Occured,Please contact sysadmin
+[main] 2021-08-20 09:07:11 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:07:11 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-20 09:07:11 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-20 09:07:11 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:07:11 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-20 09:07:11 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-20 09:07:11 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-20 09:07:11 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-20 09:07:11 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:07:11 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-20 09:07:26 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-20 09:07:26 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-20 09:07:26 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-20 09:07:26 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-20 09:07:38 INFO  com.app.main.Main  - Password
+[main] 2021-08-20 09:07:43 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-20 09:07:43 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-20 09:07:43 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 09:07:43 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-20 09:07:43 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-20 09:07:43 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-20 09:07:43 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-20 09:07:43 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-20 09:07:43 INFO  com.app.main.Main  - 2 . See a products
+[main] 2021-08-20 09:07:43 INFO  com.app.main.Main  - 3 . Delete a product
+[main] 2021-08-20 09:07:43 INFO  com.app.main.Main  - 4 . Search the Details
+[main] 2021-08-20 09:07:43 INFO  com.app.main.Main  - 5 . Update the Status
+[main] 2021-08-20 09:07:43 INFO  com.app.main.Main  - 6 . Exit 
+[main] 2021-08-20 09:07:43 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-20 09:07:43 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-20 09:07:48 INFO  com.app.main.Main  - See All the Product List
+[main] 2021-08-20 09:07:48 WARN  com.app.main.Main  - Internal Error Occured,Please contact sysadmin
+[main] 2021-08-20 09:07:48 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:07:48 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-20 09:07:48 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-20 09:07:48 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:07:48 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-20 09:07:48 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-20 09:07:48 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-20 09:07:48 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-20 09:07:48 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:07:48 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-20 09:07:51 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-20 09:07:51 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-20 09:07:51 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-20 09:07:51 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-20 09:07:53 INFO  com.app.main.Main  - Oops...wrong try....
+[main] 2021-08-20 09:07:53 INFO  com.app.main.Main  - See All the Product List
+[main] 2021-08-20 09:07:53 WARN  com.app.main.Main  - Internal Error Occured,Please contact sysadmin
+[main] 2021-08-20 09:07:53 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:07:53 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-20 09:07:53 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-20 09:07:53 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:07:53 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-20 09:07:53 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-20 09:07:53 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-20 09:07:53 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-20 09:07:53 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:07:53 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-20 09:07:55 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-20 09:07:55 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-20 09:07:55 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-20 09:07:55 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-20 09:07:57 INFO  com.app.main.Main  - Oops...wrong try....
+[main] 2021-08-20 09:07:57 INFO  com.app.main.Main  - See All the Product List
+[main] 2021-08-20 09:07:57 WARN  com.app.main.Main  - Internal Error Occured,Please contact sysadmin
+[main] 2021-08-20 09:07:57 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:07:57 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-20 09:07:57 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-20 09:07:57 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:07:57 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-20 09:07:57 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-20 09:07:57 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-20 09:07:57 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-20 09:07:57 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:07:57 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-20 09:07:58 INFO  com.app.main.Main  - ====================
+[main] 2021-08-20 09:07:58 INFO  com.app.main.Main  - WELCOME TO SAFEBUY
+[main] 2021-08-20 09:07:58 INFO  com.app.main.Main  - ====================
+[main] 2021-08-20 09:07:58 INFO  com.app.main.Main  - Hello Customer
+[main] 2021-08-20 09:07:58 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-20 09:07:58 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-20 09:07:58 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-20 09:08:14 INFO  com.app.main.Main  - Password :
+[main] 2021-08-20 09:08:24 WARN  com.app.daoimpl.UsersDAOImpl  - Enter correct credential
+[main] 2021-08-20 09:08:24 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:08:24 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-20 09:08:24 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-20 09:08:24 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:08:24 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-20 09:08:24 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-20 09:08:24 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-20 09:08:24 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-20 09:08:24 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:08:24 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - ====================
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - WELCOME TO SAFEBUY
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - ====================
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - Hello Customer
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - ====================
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - WELCOME TO SAFEBUY
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - ====================
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - Hello Customer
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - ====================
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - WELCOME TO SAFEBUY
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - ====================
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - Hello Customer
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - ====================
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - WELCOME TO SAFEBUY
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - ====================
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - Hello Customer
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - ====================
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - WELCOME TO SAFEBUY
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - ====================
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - Hello Customer
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-20 09:17:49 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-20 09:54:15 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:54:15 INFO  com.app.main.Main  - Welcome to Safe Buy app 1.0
+[main] 2021-08-20 09:54:15 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:54:15 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:54:15 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-20 09:54:15 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-20 09:54:15 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:54:15 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-20 09:54:15 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-20 09:54:15 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-20 09:54:15 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-20 09:54:15 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:54:15 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-20 09:54:29 INFO  com.app.main.Main  - ====================
+[main] 2021-08-20 09:54:29 INFO  com.app.main.Main  - WELCOME TO SAFEBUY
+[main] 2021-08-20 09:54:29 INFO  com.app.main.Main  - ====================
+[main] 2021-08-20 09:54:29 INFO  com.app.main.Main  - Hello Customer
+[main] 2021-08-20 09:54:29 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-20 09:54:29 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-20 09:54:29 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-20 09:54:37 INFO  com.app.main.Main  - Password :
+[main] 2021-08-20 09:54:58 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-20 09:54:58 INFO  com.app.main.Main  - ====================
+[main] 2021-08-20 09:54:58 INFO  com.app.main.Main  - WELCOME TO SafeBuy
+[main] 2021-08-20 09:54:58 INFO  com.app.main.Main  - ====================
+[main] 2021-08-20 09:54:58 INFO  com.app.main.Main  - What you have to Purchase Today
+[main] 2021-08-20 09:54:58 INFO  com.app.main.Main  - 1 .Products
+[main] 2021-08-20 09:54:58 INFO  com.app.main.Main  - 2 .View cart
+[main] 2021-08-20 09:54:58 INFO  com.app.main.Main  - 3 .View orders
+[main] 2021-08-20 09:54:58 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-20 09:54:58 INFO  com.app.main.Main  - 
+[main] 2021-08-20 09:55:01 INFO  com.app.main.Main  - ************Products************
+[main] 2021-08-20 09:55:01 INFO  com.app.main.Main  - Internal Error Occured,Please contact sysadmin
+[main] 2021-08-20 09:55:01 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:55:01 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-20 09:55:01 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-20 09:55:01 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:55:01 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-20 09:55:01 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-20 09:55:01 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-20 09:55:01 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-20 09:55:01 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 09:55:01 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-20 10:39:43 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 10:39:43 INFO  com.app.main.Main  - Welcome to Safe Buy app 1.0
+[main] 2021-08-20 10:39:43 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 10:39:43 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 10:39:43 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-20 10:39:43 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-20 10:39:43 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 10:39:43 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-20 10:39:43 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-20 10:39:43 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-20 10:39:43 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-20 10:39:43 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 10:39:43 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-20 10:39:46 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-20 10:39:46 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-20 10:39:46 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-20 10:39:46 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-20 10:39:57 INFO  com.app.main.Main  - Password
+[main] 2021-08-20 10:40:05 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-20 10:40:05 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-20 10:40:05 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 10:40:05 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-20 10:40:05 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-20 10:40:05 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-20 10:40:05 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-20 10:40:05 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-20 10:40:05 INFO  com.app.main.Main  - 2 . See a products
+[main] 2021-08-20 10:40:05 INFO  com.app.main.Main  - 3 . Delete a product
+[main] 2021-08-20 10:40:05 INFO  com.app.main.Main  - 4 . Search the Details
+[main] 2021-08-20 10:40:05 INFO  com.app.main.Main  - 5 . Update the Status
+[main] 2021-08-20 10:40:05 INFO  com.app.main.Main  - 6 . Exit 
+[main] 2021-08-20 10:40:05 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-20 10:40:05 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-20 10:40:11 INFO  com.app.main.Main  - Add product
+[main] 2021-08-20 10:40:11 INFO  com.app.main.Main  - ***********
+[main] 2021-08-20 10:40:11 INFO  com.app.main.Main  - Type_Ids 1-Mobile,2-HeadPhones,3-PowerBank,4-Cards and Drives,5-Cables
+[main] 2021-08-20 10:40:11 INFO  com.app.main.Main  - Product Name : 
+[main] 2021-08-20 10:40:45 INFO  com.app.main.Main  - Product Price : 
+[main] 2021-08-20 10:41:00 INFO  com.app.main.Main  - Product Type Id : 
+[main] 2021-08-20 10:41:05 INFO  com.app.main.Main  - product Added Successfully
+[main] 2021-08-20 10:41:05 INFO  com.app.main.Main  - Returning to  menu.....
+[main] 2021-08-20 10:41:05 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 10:41:05 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-20 10:41:05 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-20 10:41:05 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 10:41:05 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-20 10:41:05 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-20 10:41:05 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-20 10:41:05 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-20 10:41:05 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 10:41:05 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-20 10:41:08 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-20 10:41:08 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-20 10:41:08 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-20 10:41:08 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-20 10:44:01 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 10:44:01 INFO  com.app.main.Main  - Welcome to Safe Buy app 1.0
+[main] 2021-08-20 10:44:01 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 10:44:01 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 10:44:01 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-20 10:44:01 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-20 10:44:01 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 10:44:01 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-20 10:44:01 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-20 10:44:01 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-20 10:44:01 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-20 10:44:01 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 10:44:01 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-20 10:44:04 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-20 10:44:04 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-20 10:44:04 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-20 10:44:04 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-20 10:44:12 INFO  com.app.main.Main  - Password
+[main] 2021-08-20 10:44:23 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-20 10:44:23 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-20 10:44:23 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 10:44:23 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-20 10:44:23 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-20 10:44:23 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-20 10:44:23 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-20 10:44:23 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-20 10:44:23 INFO  com.app.main.Main  - 2 . See a products
+[main] 2021-08-20 10:44:23 INFO  com.app.main.Main  - 3 . Delete a product
+[main] 2021-08-20 10:44:23 INFO  com.app.main.Main  - 4 . Search the Details
+[main] 2021-08-20 10:44:23 INFO  com.app.main.Main  - 5 . Update the Status
+[main] 2021-08-20 10:44:23 INFO  com.app.main.Main  - 6 . Exit 
+[main] 2021-08-20 10:44:23 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-20 10:44:23 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-20 10:44:59 INFO  com.app.main.Main  - See All the Product List
+[main] 2021-08-20 10:44:59 WARN  com.app.main.Main  - Internal Error Occured,Please contact sysadmin
+[main] 2021-08-20 10:44:59 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 10:44:59 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-20 10:44:59 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-20 10:44:59 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 10:44:59 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-20 10:44:59 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-20 10:44:59 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-20 10:44:59 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-20 10:44:59 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 10:44:59 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-20 11:25:25 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 11:25:25 INFO  com.app.main.Main  - Welcome to Safe Buy app 1.0
+[main] 2021-08-20 11:25:25 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 11:25:25 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 11:25:25 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-20 11:25:25 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-20 11:25:25 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 11:25:25 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-20 11:25:25 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-20 11:25:25 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-20 11:25:25 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-20 11:25:25 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 11:25:25 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-20 11:25:38 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-20 11:25:38 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-20 11:25:38 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-20 11:25:38 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-20 11:25:51 INFO  com.app.main.Main  - Password
+[main] 2021-08-20 11:25:59 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-20 11:25:59 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-20 11:25:59 INFO  com.app.main.Main  - =============================
+[main] 2021-08-20 11:25:59 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-20 11:25:59 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-20 11:25:59 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-20 11:25:59 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-20 11:25:59 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-20 11:25:59 INFO  com.app.main.Main  - 2 . See a products
+[main] 2021-08-20 11:25:59 INFO  com.app.main.Main  - 3 . Delete a product
+[main] 2021-08-20 11:25:59 INFO  com.app.main.Main  - 4 . Search the Details
+[main] 2021-08-20 11:25:59 INFO  com.app.main.Main  - 5 . Update the Status
+[main] 2021-08-20 11:25:59 INFO  com.app.main.Main  - 6 . Exit 
+[main] 2021-08-20 11:25:59 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-20 11:25:59 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-20 11:26:02 INFO  com.app.main.Main  - See All the Product List
+[main] 2021-08-20 11:26:02 WARN  com.app.main.Main  - Internal Error Occured,Please contact sysadmin
+[main] 2021-08-20 11:26:02 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 11:26:02 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-20 11:26:02 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-20 11:26:02 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 11:26:02 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-20 11:26:02 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-20 11:26:02 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-20 11:26:02 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-20 11:26:02 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-20 11:26:02 INFO  com.app.main.Main  - Enter your choice Between (1-4)

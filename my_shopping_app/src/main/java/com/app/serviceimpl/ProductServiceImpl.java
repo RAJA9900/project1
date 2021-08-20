@@ -29,11 +29,20 @@ public class ProductServiceImpl implements ProductService{
 
 	@Override
 	public List<Product> getAllProducts() throws BusinessException {
+		List<Product> productList=new ArrayList<>();
+		productList=productDAO.getAllProducts();
+		return productList;
+	}
+
+	
+	 	/*@Override
+	public List<Product> getAllProducts() throws BusinessException {
 		List<Product> productList =new ArrayList<>();
 		productList=productDAO.getAllProducts();
 		System.out.println(productList);
 		return productList;
-	}
+	*/
+	
 	
 	
 	

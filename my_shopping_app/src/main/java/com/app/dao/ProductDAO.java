@@ -9,5 +9,6 @@ public interface ProductDAO {
 	public int createProduct(Product product) throws BusinessException;
 	public int deleteProduct(int Pr_id) throws BusinessException;
 	public List<Product> getAllProducts() throws BusinessException;
+	
 
 }
