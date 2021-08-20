@@ -1,0 +1,24 @@
+package com.app.daoimpl;
+
+import com.app.dao.ProductDAO;
+import com.app.exception.BusinessException;
+import com.app.model.Product;
+
+public class ProductDAOImpl implements ProductDAO {
+
+	@Override
+	public int createProduct(Product product) throws BusinessException {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public int deleteProduct(Product product) throws BusinessException {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	
+	
+	
+
+}

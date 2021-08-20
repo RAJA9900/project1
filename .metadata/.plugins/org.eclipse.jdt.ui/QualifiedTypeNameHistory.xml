@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="org.apache.log4j.Logger"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="com.app.model.User"/>
 <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="com.app.dao.ProductDAO"/>
+<fullyQualifiedTypeName name="org.apache.log4j.Logger"/>
+<fullyQualifiedTypeName name="com.app.daoimpl.ProductDAOImpl"/>
+<fullyQualifiedTypeName name="com.app.service.ProductService"/>
+<fullyQualifiedTypeName name="com.app.serviceimpl.ProductServiceImpl"/>
+<fullyQualifiedTypeName name="com.app.model.Product"/>
 <fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.app.model.ProductType"/>
 <fullyQualifiedTypeName name="com.app.exception.BusinessException"/>
+<fullyQualifiedTypeName name="com.app.dao.dbutil.MySqlDbConnection"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
 </qualifiedTypeNameHistroy>

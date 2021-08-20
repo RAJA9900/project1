@@ -21,7 +21,7 @@ public class MySqlDbConnection {
 		Class.forName("com.mysql.cj.jdbc.Driver");
 		//System.out.println("Driver loaded Successfully");
 		//step 2 open connection
-		String url="jdbc:mysql://localhost:3306/delicious";
+		String url="jdbc:mysql://localhost:3306/safebuy";
 		String username="root";
 		String password="Gokul@9900raja";
 		connection= DriverManager.getConnection(url,username,password);

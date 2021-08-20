@@ -1,0 +1,24 @@
+package com.app.serviceimpl;
+
+import com.app.exception.BusinessException;
+import com.app.model.Product;
+import com.app.service.ProductService;
+
+public class ProductServiceImpl implements ProductService{
+
+	@Override
+	public int createProduct(Product product) throws BusinessException {
+		int createProduct = 0;
+		createProduct = ProductDAO.createProduct(product);
+
+		return createProduct;
+	}
+
+	@Override
+	public int deleteProduct(Product product) throws BusinessException {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	
+
+}

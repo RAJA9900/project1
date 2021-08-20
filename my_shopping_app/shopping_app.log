@@ -1603,3 +1603,2069 @@
 [main] 2021-08-18 06:09:27 INFO  com.app.main.Main  - Enter the Details Below
 [main] 2021-08-18 06:09:27 INFO  com.app.main.Main  - EmailId :
 [main] 2021-08-18 06:09:48 INFO  com.app.main.Main  - Password
+[main] 2021-08-18 10:47:10 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:47:10 INFO  com.app.main.Main  - Welcome to delicious app 1.0
+[main] 2021-08-18 10:47:10 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:47:10 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:47:10 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 10:47:10 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 10:47:10 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:47:10 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 10:47:10 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 10:47:10 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 10:47:10 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 10:47:10 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:47:10 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 10:47:17 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-18 10:47:17 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 10:47:17 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 10:47:17 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 10:50:43 INFO  com.app.main.Main  - Password
+[main] 2021-08-18 10:51:03 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-18 10:51:03 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-18 10:51:03 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-18 10:51:03 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-18 10:51:03 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-18 10:51:03 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-18 10:51:03 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-18 10:51:03 INFO  com.app.main.Main  - 2 . Delete a product
+[main] 2021-08-18 10:51:03 INFO  com.app.main.Main  - 3 . Search the Details
+[main] 2021-08-18 10:51:03 INFO  com.app.main.Main  - 3 . Update the Status
+[main] 2021-08-18 10:51:03 INFO  com.app.main.Main  - 4 . Exit 
+[main] 2021-08-18 10:51:03 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-18 10:51:03 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 10:51:38 INFO  com.app.main.Main  - under Construction
+[main] 2021-08-18 10:51:47 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:51:47 INFO  com.app.main.Main  - Welcome to delicious app 1.0
+[main] 2021-08-18 10:51:47 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:51:47 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:51:47 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 10:51:47 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 10:51:47 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:51:47 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 10:51:47 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 10:51:47 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 10:51:47 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 10:51:47 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:51:47 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 10:51:51 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-18 10:51:51 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 10:51:51 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 10:51:51 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 10:52:00 INFO  com.app.main.Main  - Password
+[main] 2021-08-18 10:52:07 INFO  com.app.main.Main  - error
+[main] 2021-08-18 10:52:07 INFO  com.app.main.Main  - under Construction
+[main] 2021-08-18 10:52:07 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:52:07 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 10:52:07 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 10:52:07 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:52:07 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 10:52:07 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 10:52:07 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 10:52:07 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 10:52:07 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:52:07 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 10:53:02 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:53:02 INFO  com.app.main.Main  - Welcome to delicious app 1.0
+[main] 2021-08-18 10:53:02 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:53:02 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:53:02 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 10:53:02 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 10:53:02 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:53:02 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 10:53:02 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 10:53:02 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 10:53:02 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 10:53:02 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:53:02 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 10:53:05 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-18 10:53:05 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 10:53:05 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 10:53:05 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 10:53:14 INFO  com.app.main.Main  - Password
+[main] 2021-08-18 10:53:26 INFO  com.app.main.Main  - error
+[main] 2021-08-18 10:53:26 INFO  com.app.main.Main  - under Construction
+[main] 2021-08-18 10:53:26 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:53:26 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 10:53:26 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 10:53:26 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:53:26 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 10:53:26 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 10:53:26 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 10:53:26 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 10:53:26 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:53:26 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 10:54:06 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:54:06 INFO  com.app.main.Main  - Welcome to delicious app 1.0
+[main] 2021-08-18 10:54:06 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:54:06 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:54:06 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 10:54:06 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 10:54:06 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:54:06 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 10:54:06 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 10:54:06 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 10:54:06 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 10:54:06 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:54:06 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 10:54:11 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-18 10:54:11 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 10:54:11 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 10:54:11 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 10:54:19 INFO  com.app.main.Main  - Password
+[main] 2021-08-18 10:54:26 INFO  com.app.main.Main  - error
+[main] 2021-08-18 10:54:26 INFO  com.app.main.Main  - under Construction
+[main] 2021-08-18 10:54:26 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:54:26 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 10:54:26 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 10:54:26 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:54:26 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 10:54:26 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 10:54:26 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 10:54:26 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 10:54:26 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:54:26 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 10:54:43 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:54:43 INFO  com.app.main.Main  - Welcome to delicious app 1.0
+[main] 2021-08-18 10:54:43 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:54:43 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:54:43 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 10:54:43 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 10:54:43 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:54:43 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 10:54:43 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 10:54:43 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 10:54:43 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 10:54:43 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:54:43 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 10:54:57 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:54:57 INFO  com.app.main.Main  - Welcome to delicious app 1.0
+[main] 2021-08-18 10:54:57 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:54:57 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:54:57 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 10:54:57 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 10:54:57 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:54:57 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 10:54:57 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 10:54:57 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 10:54:57 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 10:54:57 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:54:57 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 10:55:00 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-18 10:55:00 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 10:55:00 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 10:55:00 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 10:55:06 INFO  com.app.main.Main  - Password
+[main] 2021-08-18 10:55:21 INFO  com.app.main.Main  - error
+[main] 2021-08-18 10:55:21 INFO  com.app.main.Main  - under Construction
+[main] 2021-08-18 10:55:21 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:55:21 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 10:55:21 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 10:55:21 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:55:21 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 10:55:21 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 10:55:21 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 10:55:21 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 10:55:21 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 10:55:21 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 10:59:47 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-18 10:59:47 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 10:59:47 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 10:59:47 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 11:22:45 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 11:22:45 INFO  com.app.main.Main  - Welcome to delicious app 1.0
+[main] 2021-08-18 11:22:45 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 11:22:45 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 11:22:45 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 11:22:45 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 11:22:45 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 11:22:45 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 11:22:45 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 11:22:45 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 11:22:45 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 11:22:45 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 11:22:45 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 11:22:53 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 11:22:53 INFO  com.app.main.Main  - WELCOME TO DELICIOUS
+[main] 2021-08-18 11:22:53 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 11:22:53 INFO  com.app.main.Main  - what you have to eat today
+[main] 2021-08-18 11:22:53 INFO  com.app.main.Main  - 1 . Products
+[main] 2021-08-18 11:22:53 INFO  com.app.main.Main  - 2 .View cart
+[main] 2021-08-18 11:22:53 INFO  com.app.main.Main  - 3 .View orders
+[main] 2021-08-18 11:22:53 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 11:22:53 INFO  com.app.main.Main  - 
+[main] 2021-08-18 11:23:07 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 11:23:07 INFO  com.app.main.Main  - Welcome to delicious app 1.0
+[main] 2021-08-18 11:23:07 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 11:23:07 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 11:23:07 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 11:23:07 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 11:23:07 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 11:23:07 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 11:23:07 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 11:23:07 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 11:23:07 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 11:23:07 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 11:23:07 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 11:23:13 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-18 11:23:13 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 11:23:13 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 11:23:13 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 11:23:26 INFO  com.app.main.Main  - error
+[main] 2021-08-18 11:23:26 INFO  com.app.main.Main  - under Construction
+[main] 2021-08-18 11:23:26 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 11:23:26 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 11:23:26 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 11:23:26 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 11:23:26 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 11:23:26 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 11:23:26 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 11:23:26 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 11:23:26 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 11:23:26 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 11:23:29 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-18 11:23:29 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 11:23:29 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 11:23:29 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 11:23:31 INFO  com.app.main.Main  - Password
+[main] 2021-08-18 11:23:51 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-18 11:23:51 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-18 11:23:51 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-18 11:23:51 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-18 11:23:51 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-18 11:23:51 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-18 11:23:51 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-18 11:23:51 INFO  com.app.main.Main  - 1 . See a products
+[main] 2021-08-18 11:23:51 INFO  com.app.main.Main  - 2 . Delete a product
+[main] 2021-08-18 11:23:51 INFO  com.app.main.Main  - 3 . Search the Details
+[main] 2021-08-18 11:23:51 INFO  com.app.main.Main  - 3 . Update the Status
+[main] 2021-08-18 11:23:51 INFO  com.app.main.Main  - 4 . Exit 
+[main] 2021-08-18 11:23:51 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-18 11:23:51 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 11:24:21 INFO  com.app.main.Main  - usssss2 Construction
+[main] 2021-08-18 11:24:33 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 11:24:33 INFO  com.app.main.Main  - Welcome to delicious app 1.0
+[main] 2021-08-18 11:24:33 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 11:24:33 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 11:24:33 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 11:24:33 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 11:24:33 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 11:24:33 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 11:24:33 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 11:24:33 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 11:24:33 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 11:24:33 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 11:24:33 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 11:24:35 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-18 11:24:35 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 11:24:35 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 11:24:35 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 11:24:44 INFO  com.app.main.Main  - error
+[main] 2021-08-18 11:24:44 INFO  com.app.main.Main  - under Construction
+[main] 2021-08-18 11:24:44 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 11:24:44 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 11:24:44 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 11:24:44 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 11:24:44 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 11:24:44 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 11:24:44 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 11:24:44 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 11:24:44 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 11:24:44 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 13:07:46 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:07:46 INFO  com.app.main.Main  - Welcome to delicious app 1.0
+[main] 2021-08-18 13:07:46 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:07:46 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:07:46 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 13:07:46 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 13:07:46 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:07:46 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 13:07:46 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 13:07:46 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 13:07:46 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 13:07:46 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:07:46 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 13:07:57 INFO  com.app.main.Main  - create your Delicious Account
+[main] 2021-08-18 13:07:57 INFO  com.app.main.Main  - First Name
+[main] 2021-08-18 13:08:01 INFO  com.app.main.Main  - Last Name
+[main] 2021-08-18 13:08:03 INFO  com.app.main.Main  - Email
+[main] 2021-08-18 13:08:16 INFO  com.app.main.Main  - New password
+[main] 2021-08-18 13:08:34 INFO  com.app.main.Main  - Account Created Successfully
+[main] 2021-08-18 13:08:34 INFO  com.app.main.Main  - Please login again
+[main] 2021-08-18 13:08:34 INFO  com.app.main.Main  - Returning to Main menu.....
+[main] 2021-08-18 13:08:34 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:08:34 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 13:08:34 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 13:08:34 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:08:34 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 13:08:34 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 13:08:34 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 13:08:34 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 13:08:34 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:08:34 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 13:08:46 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:08:46 INFO  com.app.main.Main  - WELCOME TO DELICIOUS
+[main] 2021-08-18 13:08:46 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:08:46 INFO  com.app.main.Main  - Hello Customer
+[main] 2021-08-18 13:08:46 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 13:08:46 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 13:08:46 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 13:08:56 INFO  com.app.main.Main  - Password :
+[main] 2021-08-18 13:09:03 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:09:03 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 13:09:03 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 13:09:03 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:09:03 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 13:09:03 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 13:09:03 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 13:09:03 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 13:09:03 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:09:03 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 13:11:29 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:11:29 INFO  com.app.main.Main  - Welcome to delicious app 1.0
+[main] 2021-08-18 13:11:29 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:11:29 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:11:29 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 13:11:29 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 13:11:29 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:11:29 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 13:11:29 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 13:11:29 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 13:11:29 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 13:11:29 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:11:29 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 13:11:45 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:11:45 INFO  com.app.main.Main  - WELCOME TO DELICIOUS
+[main] 2021-08-18 13:11:45 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:11:45 INFO  com.app.main.Main  - Hello Customer
+[main] 2021-08-18 13:11:45 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 13:11:45 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 13:11:45 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 13:12:02 INFO  com.app.main.Main  - Password :
+[main] 2021-08-18 13:12:20 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-18 13:12:20 INFO  com.app.main.Main  - what you have to eat today
+[main] 2021-08-18 13:12:20 INFO  com.app.main.Main  - 1 . Products
+[main] 2021-08-18 13:12:20 INFO  com.app.main.Main  - 2 .View cart
+[main] 2021-08-18 13:12:20 INFO  com.app.main.Main  - 3 .View orders
+[main] 2021-08-18 13:12:20 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 13:12:20 INFO  com.app.main.Main  - 
+[main] 2021-08-18 13:15:03 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:15:03 INFO  com.app.main.Main  - Welcome to delicious app 1.0
+[main] 2021-08-18 13:15:03 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:15:03 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:15:03 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 13:15:03 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 13:15:03 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:15:03 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 13:15:03 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 13:15:03 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 13:15:03 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 13:15:03 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:15:03 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 13:17:16 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:17:16 INFO  com.app.main.Main  - WELCOME TO DELICIOUS
+[main] 2021-08-18 13:17:16 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:17:16 INFO  com.app.main.Main  - Hello Customer
+[main] 2021-08-18 13:17:16 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 13:17:16 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 13:17:16 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - WELCOME TO DELICIOUS
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Hello Customer
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - WELCOME TO DELICIOUS
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Hello Customer
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - WELCOME TO DELICIOUS
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Hello Customer
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - WELCOME TO DELICIOUS
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Hello Customer
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - WELCOME TO DELICIOUS
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Hello Customer
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - WELCOME TO DELICIOUS
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Hello Customer
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - WELCOME TO DELICIOUS
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Hello Customer
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - WELCOME TO DELICIOUS
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Hello Customer
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - WELCOME TO DELICIOUS
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Hello Customer
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - WELCOME TO DELICIOUS
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Hello Customer
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:17:40 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 13:17:53 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:17:53 INFO  com.app.main.Main  - WELCOME TO DELICIOUS
+[main] 2021-08-18 13:17:53 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:17:53 INFO  com.app.main.Main  - Hello Customer
+[main] 2021-08-18 13:17:53 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 13:17:53 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 13:17:53 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 13:18:09 INFO  com.app.main.Main  - Password :
+[main] 2021-08-18 13:18:32 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:18:32 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 13:18:32 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 13:18:32 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:18:32 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 13:18:32 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 13:18:32 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 13:18:32 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 13:18:32 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:18:32 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 13:18:45 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:18:45 INFO  com.app.main.Main  - WELCOME TO DELICIOUS
+[main] 2021-08-18 13:18:45 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:18:45 INFO  com.app.main.Main  - Hello Customer
+[main] 2021-08-18 13:18:45 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 13:18:45 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 13:18:45 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 13:19:01 INFO  com.app.main.Main  - Password :
+[main] 2021-08-18 13:19:29 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:19:29 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 13:19:29 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 13:19:29 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:19:29 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 13:19:29 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 13:19:29 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 13:19:29 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 13:19:29 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:19:29 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 13:20:10 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:20:10 INFO  com.app.main.Main  - WELCOME TO DELICIOUS
+[main] 2021-08-18 13:20:10 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:20:10 INFO  com.app.main.Main  - Hello Customer
+[main] 2021-08-18 13:20:10 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 13:20:10 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 13:20:10 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 13:20:13 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:20:13 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 13:20:13 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 13:20:13 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:20:13 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 13:20:13 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 13:20:13 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 13:20:13 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 13:20:13 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:20:13 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 13:56:03 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:56:03 INFO  com.app.main.Main  - Welcome to delicious app 1.0
+[main] 2021-08-18 13:56:03 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:56:03 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:56:03 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 13:56:03 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 13:56:03 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:56:03 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 13:56:03 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 13:56:03 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 13:56:03 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 13:56:03 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:56:03 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 13:56:11 INFO  com.app.main.Main  - create your Delicious Account
+[main] 2021-08-18 13:56:11 INFO  com.app.main.Main  - First Name
+[main] 2021-08-18 13:56:17 INFO  com.app.main.Main  - Last Name
+[main] 2021-08-18 13:56:24 INFO  com.app.main.Main  - Email
+[main] 2021-08-18 13:56:42 INFO  com.app.main.Main  - New password
+[main] 2021-08-18 13:56:58 INFO  com.app.main.Main  - Account Created Successfully
+[main] 2021-08-18 13:56:58 INFO  com.app.main.Main  - Please login again
+[main] 2021-08-18 13:56:58 INFO  com.app.main.Main  - Returning to Main menu.....
+[main] 2021-08-18 13:56:58 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:56:58 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 13:56:58 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 13:56:58 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:56:58 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 13:56:58 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 13:56:58 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 13:56:58 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 13:56:58 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:56:58 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 13:57:02 INFO  com.app.main.Main  - create your Delicious Account
+[main] 2021-08-18 13:57:02 INFO  com.app.main.Main  - First Name
+[main] 2021-08-18 13:57:07 INFO  com.app.main.Main  - Last Name
+[main] 2021-08-18 13:57:09 INFO  com.app.main.Main  - Email
+[main] 2021-08-18 13:57:19 INFO  com.app.main.Main  - New password
+[main] 2021-08-18 13:57:32 INFO  com.app.main.Main  - Account Created Successfully
+[main] 2021-08-18 13:57:32 INFO  com.app.main.Main  - Please login again
+[main] 2021-08-18 13:57:32 INFO  com.app.main.Main  - Returning to Main menu.....
+[main] 2021-08-18 13:57:32 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:57:32 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 13:57:32 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 13:57:32 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:57:32 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 13:57:32 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 13:57:32 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 13:57:32 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 13:57:32 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:57:32 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 13:57:36 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-18 13:57:36 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 13:57:36 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 13:57:36 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 13:57:45 INFO  com.app.main.Main  - Oops...wrong try....
+[main] 2021-08-18 13:57:45 INFO  com.app.main.Main  - under Construction
+[main] 2021-08-18 13:57:45 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:57:45 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 13:57:45 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 13:57:45 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:57:45 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 13:57:45 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 13:57:45 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 13:57:45 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 13:57:45 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:57:45 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 13:57:47 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-18 13:57:47 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 13:57:47 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 13:57:47 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 13:57:49 INFO  com.app.main.Main  - Oops...wrong try....
+[main] 2021-08-18 13:57:49 INFO  com.app.main.Main  - under Construction
+[main] 2021-08-18 13:57:49 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:57:49 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 13:57:49 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 13:57:49 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:57:49 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 13:57:49 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 13:57:49 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 13:57:49 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 13:57:49 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:57:49 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 13:58:32 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:58:32 INFO  com.app.main.Main  - WELCOME TO DELICIOUS
+[main] 2021-08-18 13:58:32 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 13:58:32 INFO  com.app.main.Main  - Hello Customer
+[main] 2021-08-18 13:58:32 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 13:58:32 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 13:58:32 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 13:58:51 INFO  com.app.main.Main  - Password :
+[main] 2021-08-18 13:58:59 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:58:59 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 13:58:59 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 13:58:59 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:58:59 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 13:58:59 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 13:58:59 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 13:58:59 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 13:58:59 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 13:58:59 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 14:01:53 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 14:01:53 INFO  com.app.main.Main  - Welcome to delicious app 1.0
+[main] 2021-08-18 14:01:53 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 14:01:53 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 14:01:53 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 14:01:53 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 14:01:53 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 14:01:53 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 14:01:53 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 14:01:53 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 14:01:53 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 14:01:53 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 14:01:53 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 14:01:57 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 14:01:57 INFO  com.app.main.Main  - WELCOME TO DELICIOUS
+[main] 2021-08-18 14:01:57 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 14:01:57 INFO  com.app.main.Main  - Hello Customer
+[main] 2021-08-18 14:01:57 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 14:01:57 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 14:01:57 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 14:02:09 INFO  com.app.main.Main  - Password :
+[main] 2021-08-18 14:02:18 WARN  com.app.daoimpl.UsersDAOImpl  - Enter correct credential
+[main] 2021-08-18 14:02:18 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 14:02:18 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 14:02:18 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 14:02:18 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 14:02:18 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 14:02:18 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 14:02:18 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 14:02:18 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 14:02:18 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 14:02:18 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 15:20:43 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 15:20:43 INFO  com.app.main.Main  - Welcome to delicious app 1.0
+[main] 2021-08-18 15:20:43 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 15:20:43 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 15:20:43 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 15:20:43 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 15:20:43 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 15:20:43 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 15:20:43 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 15:20:43 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 15:20:43 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 15:20:43 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 15:20:43 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 15:20:47 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-18 15:20:47 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 15:20:47 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 15:20:47 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 15:22:49 INFO  com.app.main.Main  - Password
+[main] 2021-08-18 15:23:05 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-18 15:23:05 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-18 15:23:05 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-18 15:23:05 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-18 15:23:05 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-18 15:23:05 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-18 15:23:05 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-18 15:23:05 INFO  com.app.main.Main  - 1 . See a products
+[main] 2021-08-18 15:23:05 INFO  com.app.main.Main  - 2 . Delete a product
+[main] 2021-08-18 15:23:05 INFO  com.app.main.Main  - 3 . Search the Details
+[main] 2021-08-18 15:23:06 INFO  com.app.main.Main  - 3 . Update the Status
+[main] 2021-08-18 15:23:06 INFO  com.app.main.Main  - 4 . Exit 
+[main] 2021-08-18 15:23:06 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-18 15:23:06 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 15:23:13 INFO  com.app.main.Main  - Add product
+[main] 2021-08-18 15:23:13 INFO  com.app.main.Main  - ***********
+[main] 2021-08-18 15:25:55 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 15:25:55 INFO  com.app.main.Main  - Welcome to delicious app 1.0
+[main] 2021-08-18 15:25:55 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 15:25:55 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 15:25:55 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 15:25:55 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 15:25:55 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 15:25:55 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 15:25:55 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 15:25:55 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 15:25:55 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 15:25:55 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 15:25:55 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 15:25:58 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-18 15:25:58 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 15:25:58 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 15:25:58 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 15:26:17 INFO  com.app.main.Main  - Password
+[main] 2021-08-18 15:26:25 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-18 15:26:25 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-18 15:26:25 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-18 15:26:25 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-18 15:26:25 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-18 15:26:25 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-18 15:26:25 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-18 15:26:25 INFO  com.app.main.Main  - 1 . See a products
+[main] 2021-08-18 15:26:25 INFO  com.app.main.Main  - 2 . Delete a product
+[main] 2021-08-18 15:26:25 INFO  com.app.main.Main  - 3 . Search the Details
+[main] 2021-08-18 15:26:25 INFO  com.app.main.Main  - 3 . Update the Status
+[main] 2021-08-18 15:26:25 INFO  com.app.main.Main  - 4 . Exit 
+[main] 2021-08-18 15:26:25 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-18 15:26:25 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 15:26:30 INFO  com.app.main.Main  - Add product
+[main] 2021-08-18 15:26:30 INFO  com.app.main.Main  - ***********
+[main] 2021-08-18 15:27:43 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 15:27:43 INFO  com.app.main.Main  - Welcome to delicious app 1.0
+[main] 2021-08-18 15:27:43 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 15:27:43 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 15:27:43 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 15:27:43 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 15:27:43 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 15:27:43 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 15:27:43 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 15:27:43 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 15:27:43 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 15:27:43 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 15:27:43 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 15:27:49 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-18 15:27:49 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 15:27:49 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 15:27:49 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 15:28:01 INFO  com.app.main.Main  - Password
+[main] 2021-08-18 15:28:09 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-18 15:28:09 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-18 15:28:09 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-18 15:28:09 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-18 15:28:09 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-18 15:28:09 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-18 15:28:09 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-18 15:28:09 INFO  com.app.main.Main  - 1 . See a products
+[main] 2021-08-18 15:28:09 INFO  com.app.main.Main  - 2 . Delete a product
+[main] 2021-08-18 15:28:09 INFO  com.app.main.Main  - 3 . Search the Details
+[main] 2021-08-18 15:28:09 INFO  com.app.main.Main  - 3 . Update the Status
+[main] 2021-08-18 15:28:09 INFO  com.app.main.Main  - 4 . Exit 
+[main] 2021-08-18 15:28:09 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-18 15:28:09 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 15:28:12 INFO  com.app.main.Main  - Add product
+[main] 2021-08-18 15:28:12 INFO  com.app.main.Main  - ***********
+[main] 2021-08-18 15:28:12 INFO  com.app.main.Main  - Product Name : 
+[main] 2021-08-18 15:35:47 INFO  com.app.main.Main  - Product Price : 
+[main] 2021-08-18 15:36:33 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 15:36:33 INFO  com.app.main.Main  - Welcome to delicious app 1.0
+[main] 2021-08-18 15:36:33 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 15:36:33 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 15:36:33 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 15:36:33 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 15:36:33 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 15:36:33 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 15:36:33 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 15:36:33 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 15:36:33 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 15:36:33 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 15:36:33 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 15:36:39 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-18 15:36:39 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 15:36:39 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 15:36:39 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 15:36:57 INFO  com.app.main.Main  - Password
+[main] 2021-08-18 15:37:32 WARN  com.app.daoimpl.UsersDAOImpl  - Enter correct credential
+[main] 2021-08-18 15:37:32 INFO  com.app.main.Main  - Oops...wrong try....
+[main] 2021-08-18 15:37:32 INFO  com.app.main.Main  - under Construction
+[main] 2021-08-18 15:37:32 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 15:37:32 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 15:37:32 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 15:37:32 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 15:37:32 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 15:37:32 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 15:37:32 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 15:37:32 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 15:37:32 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 15:37:32 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 15:37:40 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-18 15:37:40 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 15:37:40 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 15:37:40 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 15:37:56 INFO  com.app.main.Main  - Password
+[main] 2021-08-18 15:38:05 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-18 15:38:05 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-18 15:38:05 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-18 15:38:05 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-18 15:38:05 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-18 15:38:05 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-18 15:38:05 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-18 15:38:05 INFO  com.app.main.Main  - 1 . See a products
+[main] 2021-08-18 15:38:05 INFO  com.app.main.Main  - 2 . Delete a product
+[main] 2021-08-18 15:38:05 INFO  com.app.main.Main  - 3 . Search the Details
+[main] 2021-08-18 15:38:05 INFO  com.app.main.Main  - 3 . Update the Status
+[main] 2021-08-18 15:38:05 INFO  com.app.main.Main  - 4 . Exit 
+[main] 2021-08-18 15:38:05 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-18 15:38:05 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 15:38:12 INFO  com.app.main.Main  - Add product
+[main] 2021-08-18 15:38:12 INFO  com.app.main.Main  - ***********
+[main] 2021-08-18 15:38:12 INFO  com.app.main.Main  - Product Name : 
+[main] 2021-08-18 15:38:31 INFO  com.app.main.Main  - Product Price : 
+[main] 2021-08-18 15:38:44 INFO  com.app.main.Main  - Product Type Id : 
+[main] 2021-08-18 15:38:50 INFO  com.app.main.Main  - product Added Successfully
+[main] 2021-08-18 15:38:50 INFO  com.app.main.Main  - Returning to  menu.....
+[main] 2021-08-18 15:38:50 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 15:38:50 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 15:38:50 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 15:38:50 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 15:38:50 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 15:38:50 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 15:38:50 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 15:38:50 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 15:38:50 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 15:38:50 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 16:03:06 INFO  com.app.main.Main  - create your Delicious Account
+[main] 2021-08-18 16:03:06 INFO  com.app.main.Main  - First Name
+[main] 2021-08-18 16:03:08 WARN  com.app.main.Main  - Give proper FirstName
+[main] 2021-08-18 16:03:08 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 16:03:08 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 16:03:08 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 16:03:08 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 16:03:08 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 16:03:08 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 16:03:08 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 16:03:08 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 16:03:08 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 16:03:08 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 16:03:10 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-18 16:03:10 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 16:03:10 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 16:03:10 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 16:03:23 INFO  com.app.main.Main  - Password
+[main] 2021-08-18 16:03:32 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-18 16:03:32 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-18 16:03:32 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-18 16:03:32 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-18 16:03:32 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-18 16:03:32 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-18 16:03:32 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-18 16:03:32 INFO  com.app.main.Main  - 1 . See a products
+[main] 2021-08-18 16:03:32 INFO  com.app.main.Main  - 2 . Delete a product
+[main] 2021-08-18 16:03:32 INFO  com.app.main.Main  - 3 . Search the Details
+[main] 2021-08-18 16:03:32 INFO  com.app.main.Main  - 3 . Update the Status
+[main] 2021-08-18 16:03:32 INFO  com.app.main.Main  - 4 . Exit 
+[main] 2021-08-18 16:03:32 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-18 16:03:32 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 16:03:35 INFO  com.app.main.Main  - Add product
+[main] 2021-08-18 16:03:35 INFO  com.app.main.Main  - ***********
+[main] 2021-08-18 16:03:35 INFO  com.app.main.Main  - Product Name : 
+[main] 2021-08-18 16:04:01 INFO  com.app.main.Main  - Product Price : 
+[main] 2021-08-18 16:04:08 INFO  com.app.main.Main  - Product Type Id : 
+[main] 2021-08-18 16:04:14 INFO  com.app.main.Main  - product Added Successfully
+[main] 2021-08-18 16:04:14 INFO  com.app.main.Main  - Returning to  menu.....
+[main] 2021-08-18 16:04:14 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 16:04:14 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 16:04:14 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 16:04:14 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 16:04:14 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 16:04:14 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 16:04:14 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 16:04:14 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 16:04:14 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 16:04:14 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 16:21:28 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 16:21:28 INFO  com.app.main.Main  - Welcome to delicious app 1.0
+[main] 2021-08-18 16:21:28 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 16:21:28 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 16:21:28 INFO  com.app.main.Main  - What you have to eat today
+[main] 2021-08-18 16:21:28 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 16:21:28 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 16:21:28 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 16:21:28 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 16:21:28 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 16:21:28 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 16:21:28 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 16:21:28 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 16:21:35 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-18 16:21:35 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 16:21:35 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 16:21:35 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 16:21:45 INFO  com.app.main.Main  - Password
+[main] 2021-08-18 16:21:55 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-18 16:21:55 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-18 16:21:55 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-18 16:21:55 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-18 16:21:55 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-18 16:21:55 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-18 16:21:55 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-18 16:21:55 INFO  com.app.main.Main  - 1 . See a products
+[main] 2021-08-18 16:21:55 INFO  com.app.main.Main  - 2 . Delete a product
+[main] 2021-08-18 16:21:55 INFO  com.app.main.Main  - 3 . Search the Details
+[main] 2021-08-18 16:21:55 INFO  com.app.main.Main  - 3 . Update the Status
+[main] 2021-08-18 16:21:55 INFO  com.app.main.Main  - 4 . Exit 
+[main] 2021-08-18 16:21:55 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-18 16:21:55 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 16:22:26 INFO  com.app.main.Main  - Add product
+[main] 2021-08-18 16:22:26 INFO  com.app.main.Main  - ***********
+[main] 2021-08-18 16:22:26 INFO  com.app.main.Main  - Product Name : 
+[main] 2021-08-18 16:25:44 INFO  com.app.main.Main  - Product Price : 
+[main] 2021-08-18 16:25:54 INFO  com.app.main.Main  - Product Type Id : 
+[main] 2021-08-18 16:25:58 INFO  com.app.main.Main  - product Added Successfully
+[main] 2021-08-18 16:25:58 INFO  com.app.main.Main  - Returning to  menu.....
+[main] 2021-08-18 22:06:46 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 22:06:46 INFO  com.app.main.Main  - Welcome to Mobile World app 1.0
+[main] 2021-08-18 22:06:46 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 22:06:46 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 22:06:46 INFO  com.app.main.Main  - Mo
+[main] 2021-08-18 22:06:46 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 22:06:46 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 22:06:46 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 22:06:46 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 22:06:46 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 22:06:46 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 22:06:46 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 22:06:46 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 22:07:42 INFO  com.app.main.Main  - create your Delicious Account
+[main] 2021-08-18 22:07:42 INFO  com.app.main.Main  - First Name
+[main] 2021-08-18 22:10:12 WARN  com.app.main.Main  - Give proper FirstName
+[main] 2021-08-18 22:10:48 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 22:10:48 INFO  com.app.main.Main  - Welcome to Mobile World app 1.0
+[main] 2021-08-18 22:10:48 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 22:10:48 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 22:10:48 INFO  com.app.main.Main  - Mo
+[main] 2021-08-18 22:10:48 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 22:10:48 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 22:10:48 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 22:10:48 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 22:10:48 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 22:10:48 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 22:10:48 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 22:10:48 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 22:10:55 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-18 22:10:55 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 22:10:55 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 22:10:55 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 22:24:24 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 22:24:24 INFO  com.app.main.Main  - Welcome to Mobile World app 1.0
+[main] 2021-08-18 22:24:24 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 22:24:24 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 22:24:24 INFO  com.app.main.Main  - Mo
+[main] 2021-08-18 22:24:24 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 22:24:24 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 22:24:24 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 22:24:24 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 22:24:24 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 22:24:24 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 22:24:24 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 22:24:24 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 22:24:28 INFO  com.app.main.Main  - create your  Account
+[main] 2021-08-18 22:24:28 INFO  com.app.main.Main  - First Name
+[main] 2021-08-18 22:24:55 WARN  com.app.main.Main  - Give proper FirstName
+[main] 2021-08-18 22:24:55 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 22:24:55 INFO  com.app.main.Main  - Mo
+[main] 2021-08-18 22:24:55 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 22:24:55 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 22:24:55 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 22:24:55 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 22:24:55 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 22:24:55 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 22:24:55 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 22:24:55 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 22:25:00 INFO  com.app.main.Main  - create your  Account
+[main] 2021-08-18 22:25:00 INFO  com.app.main.Main  - First Name
+[main] 2021-08-18 22:25:06 INFO  com.app.main.Main  - Last Name
+[main] 2021-08-18 22:25:11 INFO  com.app.main.Main  - Email
+[main] 2021-08-18 22:25:30 INFO  com.app.main.Main  - New password
+[main] 2021-08-18 22:25:54 INFO  com.app.main.Main  - Account Created Successfully
+[main] 2021-08-18 22:25:54 INFO  com.app.main.Main  - Please login again
+[main] 2021-08-18 22:25:54 INFO  com.app.main.Main  - Returning to Main menu.....
+[main] 2021-08-18 22:25:54 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 22:25:54 INFO  com.app.main.Main  - Mo
+[main] 2021-08-18 22:25:54 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 22:25:54 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 22:25:54 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 22:25:54 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 22:25:54 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 22:25:54 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 22:25:54 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 22:25:54 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 22:26:08 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-18 22:26:08 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 22:26:08 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 22:26:08 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 22:26:19 INFO  com.app.main.Main  - Password
+[main] 2021-08-18 22:26:26 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-18 22:26:26 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-18 22:26:27 INFO  com.app.main.Main  - =============================
+[main] 2021-08-18 22:26:27 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-18 22:26:27 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-18 22:26:27 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-18 22:26:27 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-18 22:26:27 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-18 22:26:27 INFO  com.app.main.Main  - 2 . See a products
+[main] 2021-08-18 22:26:27 INFO  com.app.main.Main  - 3 . Delete a product
+[main] 2021-08-18 22:26:27 INFO  com.app.main.Main  - 4 . Search the Details
+[main] 2021-08-18 22:26:27 INFO  com.app.main.Main  - 5 . Update the Status
+[main] 2021-08-18 22:26:27 INFO  com.app.main.Main  - 6 . Exit 
+[main] 2021-08-18 22:26:27 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-18 22:26:27 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 22:28:41 INFO  com.app.main.Main  - Add product
+[main] 2021-08-18 22:28:41 INFO  com.app.main.Main  - ***********
+[main] 2021-08-18 22:28:41 INFO  com.app.main.Main  - Product Name : 
+[main] 2021-08-18 22:30:00 INFO  com.app.main.Main  - Product Price : 
+[main] 2021-08-18 22:30:08 INFO  com.app.main.Main  - Product Type Id : 
+[main] 2021-08-18 22:31:27 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 22:31:27 INFO  com.app.main.Main  - Welcome to Mobile World app 1.0
+[main] 2021-08-18 22:31:27 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 22:31:27 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 22:31:27 INFO  com.app.main.Main  - Mo
+[main] 2021-08-18 22:31:27 INFO  com.app.main.Main  - please Login...............
+[main] 2021-08-18 22:31:27 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 22:31:27 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 22:31:27 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 22:31:27 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 22:31:27 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 22:31:27 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 22:31:27 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 22:31:33 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 22:31:33 INFO  com.app.main.Main  - WELCOME TO DELICIOUS
+[main] 2021-08-18 22:31:33 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 22:31:33 INFO  com.app.main.Main  - Hello Customer
+[main] 2021-08-18 22:31:33 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 22:31:33 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 22:31:33 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 22:31:44 INFO  com.app.main.Main  - Password :
+[main] 2021-08-18 22:32:08 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-18 22:32:08 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 22:32:08 INFO  com.app.main.Main  - WELCOME TO DELICIOUS
+[main] 2021-08-18 22:32:08 INFO  com.app.main.Main  - ====================
+[main] 2021-08-18 22:32:08 INFO  com.app.main.Main  - what you have to eat today
+[main] 2021-08-18 22:32:08 INFO  com.app.main.Main  - 1 .Products
+[main] 2021-08-18 22:32:08 INFO  com.app.main.Main  - 2 .View cart
+[main] 2021-08-18 22:32:08 INFO  com.app.main.Main  - 3 .View orders
+[main] 2021-08-18 22:32:08 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 22:32:08 INFO  com.app.main.Main  - 
+[main] 2021-08-18 23:27:52 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 23:27:52 INFO  com.app.main.Main  - Welcome to Safe Buy app 1.0
+[main] 2021-08-18 23:27:52 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 23:27:52 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 23:27:52 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-18 23:27:52 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-18 23:27:52 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 23:27:52 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 23:27:52 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 23:27:52 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 23:27:52 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 23:27:52 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 23:27:52 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 23:29:26 INFO  com.app.main.Main  - Thanks For using app....bye..bye..
+[main] 2021-08-18 23:29:31 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 23:29:31 INFO  com.app.main.Main  - Welcome to Safe Buy app 1.0
+[main] 2021-08-18 23:29:31 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 23:29:31 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 23:29:31 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-18 23:29:31 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-18 23:29:31 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 23:29:31 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 23:29:31 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 23:29:31 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 23:29:31 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 23:29:31 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 23:29:31 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 23:29:35 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-18 23:29:35 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 23:29:35 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 23:29:35 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 23:29:35 INFO  com.app.main.Main  - Oops...wrong try....
+[main] 2021-08-18 23:29:35 INFO  com.app.main.Main  - under Construction
+[main] 2021-08-18 23:29:35 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 23:29:35 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-18 23:29:35 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-18 23:29:35 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 23:29:35 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 23:29:35 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 23:29:35 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 23:29:35 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 23:29:35 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 23:29:35 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 23:29:36 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-18 23:29:36 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 23:29:36 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 23:29:36 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 23:29:37 INFO  com.app.main.Main  - Oops...wrong try....
+[main] 2021-08-18 23:29:37 INFO  com.app.main.Main  - under Construction
+[main] 2021-08-18 23:29:37 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 23:29:37 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-18 23:29:37 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-18 23:29:37 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 23:29:37 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 23:29:37 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 23:29:37 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 23:29:37 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 23:29:37 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 23:29:37 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 23:29:38 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-18 23:29:38 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-18 23:29:38 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-18 23:29:38 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-18 23:29:39 INFO  com.app.main.Main  - Oops...wrong try....
+[main] 2021-08-18 23:29:39 INFO  com.app.main.Main  - under Construction
+[main] 2021-08-18 23:29:39 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 23:29:39 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-18 23:29:39 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-18 23:29:39 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 23:29:39 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 23:29:39 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 23:29:39 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 23:29:39 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 23:29:39 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 23:29:39 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 23:51:37 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 23:51:37 INFO  com.app.main.Main  - Welcome to Safe Buy app 1.0
+[main] 2021-08-18 23:51:37 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 23:51:37 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 23:51:37 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-18 23:51:37 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-18 23:51:37 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 23:51:37 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 23:51:37 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 23:51:37 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 23:51:37 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 23:51:37 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 23:51:37 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 23:51:44 INFO  com.app.main.Main  - create your  Account
+[main] 2021-08-18 23:51:44 INFO  com.app.main.Main  - First Name
+[main] 2021-08-18 23:52:03 INFO  com.app.main.Main  - Last Name
+[main] 2021-08-18 23:52:06 INFO  com.app.main.Main  - Email
+[main] 2021-08-18 23:52:36 INFO  com.app.main.Main  - New password
+[main] 2021-08-18 23:53:02 ERROR com.app.daoimpl.UsersDAOImpl  - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`safebuy`.`users`, CONSTRAINT `fk_type_id` FOREIGN KEY (`type_id`) REFERENCES `user_type` (`type_id`))
+[main] 2021-08-18 23:53:02 WARN  com.app.main.Main  - Internal Error Occured contact SysAdmin
+[main] 2021-08-18 23:53:02 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 23:53:02 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-18 23:53:02 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-18 23:53:02 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 23:53:02 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 23:53:02 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 23:53:02 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 23:53:02 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 23:53:02 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 23:53:02 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-18 23:55:55 INFO  com.app.main.Main  - create your  Account
+[main] 2021-08-18 23:55:55 INFO  com.app.main.Main  - First Name
+[main] 2021-08-18 23:56:00 INFO  com.app.main.Main  - Last Name
+[main] 2021-08-18 23:56:08 INFO  com.app.main.Main  - Email
+[main] 2021-08-18 23:56:28 INFO  com.app.main.Main  - New password
+[main] 2021-08-18 23:56:38 ERROR com.app.daoimpl.UsersDAOImpl  - java.sql.SQLIntegrityConstraintViolationException: Cannot add or update a child row: a foreign key constraint fails (`safebuy`.`users`, CONSTRAINT `fk_id` FOREIGN KEY (`type_id`) REFERENCES `user_type` (`type_id`))
+[main] 2021-08-18 23:56:38 WARN  com.app.main.Main  - Internal Error Occured contact SysAdmin
+[main] 2021-08-18 23:56:38 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 23:56:38 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-18 23:56:38 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-18 23:56:38 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 23:56:38 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-18 23:56:38 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-18 23:56:38 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-18 23:56:38 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-18 23:56:38 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-18 23:56:38 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 00:07:33 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 00:07:33 INFO  com.app.main.Main  - Welcome to Safe Buy app 1.0
+[main] 2021-08-19 00:07:33 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 00:07:33 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 00:07:33 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 00:07:33 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 00:07:33 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 00:07:33 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 00:07:33 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 00:07:33 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 00:07:33 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 00:07:33 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 00:07:33 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 00:07:36 INFO  com.app.main.Main  - create your  Account
+[main] 2021-08-19 00:07:36 INFO  com.app.main.Main  - First Name
+[main] 2021-08-19 00:07:40 INFO  com.app.main.Main  - Last Name
+[main] 2021-08-19 00:07:42 INFO  com.app.main.Main  - Email
+[main] 2021-08-19 00:07:50 INFO  com.app.main.Main  - New password
+[main] 2021-08-19 00:08:03 INFO  com.app.main.Main  - Account Created Successfully
+[main] 2021-08-19 00:08:03 INFO  com.app.main.Main  - Please login again
+[main] 2021-08-19 00:08:03 INFO  com.app.main.Main  - Returning to Main menu.....
+[main] 2021-08-19 00:08:03 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 00:08:03 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 00:08:03 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 00:08:03 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 00:08:03 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 00:08:03 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 00:08:03 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 00:08:03 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 00:08:03 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 00:08:03 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 00:08:06 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-19 00:08:06 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-19 00:08:06 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-19 00:08:06 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-19 00:08:32 INFO  com.app.main.Main  - Password
+[main] 2021-08-19 00:08:40 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-19 00:08:40 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-19 00:08:40 INFO  com.app.main.Main  - =============================
+[main] 2021-08-19 00:08:40 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-19 00:08:40 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 00:08:40 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-19 00:08:40 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 00:08:40 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-19 00:08:40 INFO  com.app.main.Main  - 2 . See a products
+[main] 2021-08-19 00:08:40 INFO  com.app.main.Main  - 3 . Delete a product
+[main] 2021-08-19 00:08:40 INFO  com.app.main.Main  - 4 . Search the Details
+[main] 2021-08-19 00:08:40 INFO  com.app.main.Main  - 5 . Update the Status
+[main] 2021-08-19 00:08:40 INFO  com.app.main.Main  - 6 . Exit 
+[main] 2021-08-19 00:08:40 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 00:08:40 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 00:08:48 INFO  com.app.main.Main  - under Construction
+[main] 2021-08-19 00:08:48 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 00:08:48 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 00:08:48 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 00:08:48 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 00:08:48 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 00:08:48 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 00:08:48 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 00:08:48 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 00:08:48 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 00:08:48 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 00:08:55 INFO  com.app.main.Main  - ====================
+[main] 2021-08-19 00:08:55 INFO  com.app.main.Main  - WELCOME TO SAFEBUY
+[main] 2021-08-19 00:08:55 INFO  com.app.main.Main  - ====================
+[main] 2021-08-19 00:08:55 INFO  com.app.main.Main  - Hello Customer
+[main] 2021-08-19 00:08:55 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-19 00:08:55 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-19 00:08:55 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-19 00:09:05 INFO  com.app.main.Main  - Password :
+[main] 2021-08-19 00:09:16 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-19 00:09:16 INFO  com.app.main.Main  - ====================
+[main] 2021-08-19 00:09:16 INFO  com.app.main.Main  - WELCOME TO SafeBuy
+[main] 2021-08-19 00:09:16 INFO  com.app.main.Main  - ====================
+[main] 2021-08-19 00:09:16 INFO  com.app.main.Main  - what you have to eat today
+[main] 2021-08-19 00:09:16 INFO  com.app.main.Main  - 1 .Products
+[main] 2021-08-19 00:09:16 INFO  com.app.main.Main  - 2 .View cart
+[main] 2021-08-19 00:09:16 INFO  com.app.main.Main  - 3 .View orders
+[main] 2021-08-19 00:09:16 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 00:09:16 INFO  com.app.main.Main  - 
+[main] 2021-08-19 00:09:56 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 00:09:56 INFO  com.app.main.Main  - Welcome to Safe Buy app 1.0
+[main] 2021-08-19 00:09:56 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 00:09:56 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 00:09:56 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 00:09:56 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 00:09:56 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 00:09:56 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 00:09:56 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 00:09:56 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 00:09:56 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 00:09:56 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 00:09:56 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 00:10:12 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-19 00:10:12 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-19 00:10:12 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-19 00:10:12 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-19 00:10:21 INFO  com.app.main.Main  - Password
+[main] 2021-08-19 00:10:30 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-19 00:10:30 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-19 00:10:30 INFO  com.app.main.Main  - =============================
+[main] 2021-08-19 00:10:30 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-19 00:10:30 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 00:10:30 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-19 00:10:30 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 00:10:30 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-19 00:10:30 INFO  com.app.main.Main  - 2 . See a products
+[main] 2021-08-19 00:10:30 INFO  com.app.main.Main  - 3 . Delete a product
+[main] 2021-08-19 00:10:30 INFO  com.app.main.Main  - 4 . Search the Details
+[main] 2021-08-19 00:10:30 INFO  com.app.main.Main  - 5 . Update the Status
+[main] 2021-08-19 00:10:30 INFO  com.app.main.Main  - 6 . Exit 
+[main] 2021-08-19 00:10:30 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 00:10:30 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 00:10:32 INFO  com.app.main.Main  - Add product
+[main] 2021-08-19 00:10:32 INFO  com.app.main.Main  - ***********
+[main] 2021-08-19 00:10:32 INFO  com.app.main.Main  - Product Name : 
+[main] 2021-08-19 00:12:33 INFO  com.app.main.Main  - Product Price : 
+[main] 2021-08-19 00:12:57 INFO  com.app.main.Main  - Product Type Id : 
+[main] 2021-08-19 00:13:00 ERROR com.app.daoimpl.ProductDAOImpl  - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Out of range value for column 'pr_price' at row 1
+[main] 2021-08-19 00:13:00 WARN  com.app.main.Main  - Internal Error Occured Contact SysAdmin
+[main] 2021-08-19 00:13:00 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 00:13:00 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 00:13:00 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 00:13:00 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 00:13:00 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 00:13:00 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 00:13:00 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 00:13:00 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 00:13:00 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 00:13:00 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 00:14:58 INFO  com.app.main.Main  - create your  Account
+[main] 2021-08-19 00:14:58 INFO  com.app.main.Main  - First Name
+[main] 2021-08-19 00:15:00 WARN  com.app.main.Main  - Give proper FirstName
+[main] 2021-08-19 00:15:00 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 00:15:00 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 00:15:00 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 00:15:00 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 00:15:00 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 00:15:00 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 00:15:00 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 00:15:00 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 00:15:00 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 00:15:00 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 00:15:02 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-19 00:15:02 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-19 00:15:02 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-19 00:15:02 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-19 00:15:10 INFO  com.app.main.Main  - Password
+[main] 2021-08-19 00:15:15 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-19 00:15:15 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-19 00:15:15 INFO  com.app.main.Main  - =============================
+[main] 2021-08-19 00:15:15 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-19 00:15:15 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 00:15:15 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-19 00:15:15 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 00:15:15 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-19 00:15:15 INFO  com.app.main.Main  - 2 . See a products
+[main] 2021-08-19 00:15:15 INFO  com.app.main.Main  - 3 . Delete a product
+[main] 2021-08-19 00:15:15 INFO  com.app.main.Main  - 4 . Search the Details
+[main] 2021-08-19 00:15:15 INFO  com.app.main.Main  - 5 . Update the Status
+[main] 2021-08-19 00:15:15 INFO  com.app.main.Main  - 6 . Exit 
+[main] 2021-08-19 00:15:15 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 00:15:15 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 00:15:17 INFO  com.app.main.Main  - Add product
+[main] 2021-08-19 00:15:17 INFO  com.app.main.Main  - ***********
+[main] 2021-08-19 00:15:17 INFO  com.app.main.Main  - Product Name : 
+[main] 2021-08-19 00:15:59 INFO  com.app.main.Main  - Product Price : 
+[main] 2021-08-19 00:16:05 INFO  com.app.main.Main  - Product Type Id : 
+[main] 2021-08-19 00:16:08 ERROR com.app.daoimpl.ProductDAOImpl  - com.mysql.cj.jdbc.exceptions.MysqlDataTruncation: Data truncation: Data too long for column 'pr_name' at row 1
+[main] 2021-08-19 00:16:08 WARN  com.app.main.Main  - Internal Error Occured Contact SysAdmin
+[main] 2021-08-19 00:16:08 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 00:16:08 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 00:16:08 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 00:16:08 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 00:16:08 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 00:16:08 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 00:16:08 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 00:16:08 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 00:16:08 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 00:16:08 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 07:18:48 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-19 07:18:48 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-19 07:18:48 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-19 07:18:48 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-19 07:19:24 INFO  com.app.main.Main  - Password
+[main] 2021-08-19 07:19:38 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-19 07:19:38 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-19 07:19:38 INFO  com.app.main.Main  - =============================
+[main] 2021-08-19 07:19:38 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-19 07:19:38 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 07:19:38 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-19 07:19:38 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 07:19:38 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-19 07:19:38 INFO  com.app.main.Main  - 2 . See a products
+[main] 2021-08-19 07:19:38 INFO  com.app.main.Main  - 3 . Delete a product
+[main] 2021-08-19 07:19:38 INFO  com.app.main.Main  - 4 . Search the Details
+[main] 2021-08-19 07:19:38 INFO  com.app.main.Main  - 5 . Update the Status
+[main] 2021-08-19 07:19:38 INFO  com.app.main.Main  - 6 . Exit 
+[main] 2021-08-19 07:19:38 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 07:19:38 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 07:19:41 INFO  com.app.main.Main  - Add product
+[main] 2021-08-19 07:19:41 INFO  com.app.main.Main  - ***********
+[main] 2021-08-19 07:19:41 INFO  com.app.main.Main  - Product Name : 
+[main] 2021-08-19 07:19:47 INFO  com.app.main.Main  - Product Price : 
+[main] 2021-08-19 07:19:54 INFO  com.app.main.Main  - Product Type Id : 
+[main] 2021-08-19 07:19:57 ERROR com.app.daoimpl.ProductDAOImpl  - java.sql.SQLException: Field 'pr_id' doesn't have a default value
+[main] 2021-08-19 07:19:57 WARN  com.app.main.Main  - Internal Error Occured Contact SysAdmin
+[main] 2021-08-19 07:19:57 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 07:19:57 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 07:19:57 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 07:19:57 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 07:19:57 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 07:19:57 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 07:19:57 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 07:19:57 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 07:19:57 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 07:19:57 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 07:20:51 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-19 07:20:51 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-19 07:20:51 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-19 07:20:51 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-19 07:21:04 INFO  com.app.main.Main  - Password
+[main] 2021-08-19 07:21:09 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-19 07:21:09 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-19 07:21:09 INFO  com.app.main.Main  - =============================
+[main] 2021-08-19 07:21:09 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-19 07:21:09 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 07:21:09 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-19 07:21:09 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 07:21:09 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-19 07:21:09 INFO  com.app.main.Main  - 2 . See a products
+[main] 2021-08-19 07:21:09 INFO  com.app.main.Main  - 3 . Delete a product
+[main] 2021-08-19 07:21:09 INFO  com.app.main.Main  - 4 . Search the Details
+[main] 2021-08-19 07:21:09 INFO  com.app.main.Main  - 5 . Update the Status
+[main] 2021-08-19 07:21:09 INFO  com.app.main.Main  - 6 . Exit 
+[main] 2021-08-19 07:21:09 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 07:21:09 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 07:21:12 INFO  com.app.main.Main  - Add product
+[main] 2021-08-19 07:21:12 INFO  com.app.main.Main  - ***********
+[main] 2021-08-19 07:21:12 INFO  com.app.main.Main  - Product Name : 
+[main] 2021-08-19 07:21:15 INFO  com.app.main.Main  - Product Price : 
+[main] 2021-08-19 07:21:21 INFO  com.app.main.Main  - Product Type Id : 
+[main] 2021-08-19 07:21:23 INFO  com.app.main.Main  - product Added Successfully
+[main] 2021-08-19 07:21:23 INFO  com.app.main.Main  - Returning to  menu.....
+[main] 2021-08-19 07:21:23 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 07:21:23 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 07:21:23 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 07:21:23 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 07:21:23 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 07:21:23 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 07:21:23 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 07:21:23 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 07:21:23 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 07:21:23 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 08:11:51 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 08:11:51 INFO  com.app.main.Main  - Welcome to Safe Buy app 1.0
+[main] 2021-08-19 08:11:51 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 08:11:51 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 08:11:51 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 08:11:51 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 08:11:51 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 08:11:51 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 08:11:51 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 08:11:51 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 08:11:51 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 08:11:51 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 08:11:51 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 08:11:54 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-19 08:11:54 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-19 08:11:54 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-19 08:11:54 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-19 08:12:05 INFO  com.app.main.Main  - Password
+[main] 2021-08-19 08:12:21 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-19 08:12:21 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-19 08:12:21 INFO  com.app.main.Main  - =============================
+[main] 2021-08-19 08:12:21 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-19 08:12:21 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 08:12:21 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-19 08:12:21 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 08:12:21 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-19 08:12:21 INFO  com.app.main.Main  - 2 . See a products
+[main] 2021-08-19 08:12:21 INFO  com.app.main.Main  - 3 . Delete a product
+[main] 2021-08-19 08:12:21 INFO  com.app.main.Main  - 4 . Search the Details
+[main] 2021-08-19 08:12:21 INFO  com.app.main.Main  - 5 . Update the Status
+[main] 2021-08-19 08:12:21 INFO  com.app.main.Main  - 6 . Exit 
+[main] 2021-08-19 08:12:21 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 08:12:21 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 08:12:27 INFO  com.app.main.Main  - Delete A Product
+[main] 2021-08-19 08:12:27 INFO  com.app.main.Main  - ****************
+[main] 2021-08-19 08:12:27 INFO  com.app.main.Main  - Delete by productId
+[main] 2021-08-19 08:12:36 INFO  com.app.main.Main  - product Deleted Successfully
+[main] 2021-08-19 08:12:36 INFO  com.app.main.Main  - Returning to  menu.....
+[main] 2021-08-19 08:12:36 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 08:12:36 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 08:12:36 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 08:12:36 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 08:12:36 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 08:12:36 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 08:12:36 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 08:12:36 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 08:12:36 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 08:12:36 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 09:19:00 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:19:00 INFO  com.app.main.Main  - Welcome to Safe Buy app 1.0
+[main] 2021-08-19 09:19:00 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:19:00 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:19:00 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 09:19:00 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 09:19:00 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:19:00 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 09:19:00 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 09:19:00 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 09:19:00 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 09:19:00 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:19:00 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 09:19:03 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-19 09:19:03 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-19 09:19:03 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-19 09:19:03 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-19 09:19:11 INFO  com.app.main.Main  - Password
+[main] 2021-08-19 09:19:22 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-19 09:19:22 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-19 09:19:22 INFO  com.app.main.Main  - =============================
+[main] 2021-08-19 09:19:22 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-19 09:19:22 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 09:19:22 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-19 09:19:22 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 09:19:22 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-19 09:19:22 INFO  com.app.main.Main  - 2 . See a products
+[main] 2021-08-19 09:19:22 INFO  com.app.main.Main  - 3 . Delete a product
+[main] 2021-08-19 09:19:22 INFO  com.app.main.Main  - 4 . Search the Details
+[main] 2021-08-19 09:19:22 INFO  com.app.main.Main  - 5 . Update the Status
+[main] 2021-08-19 09:19:22 INFO  com.app.main.Main  - 6 . Exit 
+[main] 2021-08-19 09:19:22 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 09:19:22 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 09:19:26 INFO  com.app.main.Main  - See All the Product List
+[main] 2021-08-19 09:19:26 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:19:26 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 09:19:26 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 09:19:26 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:19:26 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 09:19:26 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 09:19:26 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 09:19:26 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 09:19:26 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:19:26 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 09:22:42 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:22:42 INFO  com.app.main.Main  - Welcome to Safe Buy app 1.0
+[main] 2021-08-19 09:22:42 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:22:42 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:22:42 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 09:22:42 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 09:22:42 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:22:42 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 09:22:42 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 09:22:42 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 09:22:42 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 09:22:42 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:22:42 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 09:22:44 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-19 09:22:44 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-19 09:22:44 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-19 09:22:44 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-19 09:22:54 INFO  com.app.main.Main  - Password
+[main] 2021-08-19 09:23:02 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-19 09:23:02 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-19 09:23:02 INFO  com.app.main.Main  - =============================
+[main] 2021-08-19 09:23:02 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-19 09:23:02 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 09:23:02 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-19 09:23:02 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 09:23:02 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-19 09:23:02 INFO  com.app.main.Main  - 2 . See a products
+[main] 2021-08-19 09:23:02 INFO  com.app.main.Main  - 3 . Delete a product
+[main] 2021-08-19 09:23:02 INFO  com.app.main.Main  - 4 . Search the Details
+[main] 2021-08-19 09:23:02 INFO  com.app.main.Main  - 5 . Update the Status
+[main] 2021-08-19 09:23:02 INFO  com.app.main.Main  - 6 . Exit 
+[main] 2021-08-19 09:23:02 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 09:23:02 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 09:23:07 INFO  com.app.main.Main  - See All the Product List
+[main] 2021-08-19 09:23:07 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:23:07 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 09:23:07 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 09:23:07 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:23:07 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 09:23:07 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 09:23:07 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 09:23:07 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 09:23:07 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:23:07 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 09:23:42 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:23:42 INFO  com.app.main.Main  - Welcome to Safe Buy app 1.0
+[main] 2021-08-19 09:23:42 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:23:42 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:23:42 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 09:23:42 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 09:23:42 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:23:42 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 09:23:42 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 09:23:42 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 09:23:42 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 09:23:42 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:23:42 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 09:23:48 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-19 09:23:48 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-19 09:23:48 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-19 09:23:48 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-19 09:23:56 INFO  com.app.main.Main  - Password
+[main] 2021-08-19 09:24:03 WARN  com.app.daoimpl.UsersDAOImpl  - Enter correct credential
+[main] 2021-08-19 09:24:03 INFO  com.app.main.Main  - Oops...wrong try....
+[main] 2021-08-19 09:24:03 INFO  com.app.main.Main  - See All the Product List
+[main] 2021-08-19 09:24:03 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:24:03 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 09:24:03 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 09:24:03 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:24:03 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 09:24:03 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 09:24:03 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 09:24:03 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 09:24:03 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:24:03 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 09:24:05 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-19 09:24:05 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-19 09:24:05 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-19 09:24:05 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-19 09:24:12 INFO  com.app.main.Main  - Password
+[main] 2021-08-19 09:24:17 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-19 09:24:17 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-19 09:24:17 INFO  com.app.main.Main  - =============================
+[main] 2021-08-19 09:24:17 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-19 09:24:17 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 09:24:17 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-19 09:24:17 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 09:24:17 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-19 09:24:17 INFO  com.app.main.Main  - 2 . See a products
+[main] 2021-08-19 09:24:17 INFO  com.app.main.Main  - 3 . Delete a product
+[main] 2021-08-19 09:24:17 INFO  com.app.main.Main  - 4 . Search the Details
+[main] 2021-08-19 09:24:17 INFO  com.app.main.Main  - 5 . Update the Status
+[main] 2021-08-19 09:24:17 INFO  com.app.main.Main  - 6 . Exit 
+[main] 2021-08-19 09:24:17 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 09:24:17 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 09:24:19 INFO  com.app.main.Main  - See All the Product List
+[main] 2021-08-19 09:24:19 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:24:19 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 09:24:19 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 09:24:19 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:24:19 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 09:24:19 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 09:24:19 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 09:24:19 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 09:24:19 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:24:19 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 09:32:47 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-19 09:32:47 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-19 09:32:47 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-19 09:32:47 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-19 09:32:59 INFO  com.app.main.Main  - Password
+[main] 2021-08-19 09:33:05 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-19 09:33:05 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-19 09:33:05 INFO  com.app.main.Main  - =============================
+[main] 2021-08-19 09:33:05 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-19 09:33:05 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 09:33:05 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-19 09:33:05 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 09:33:05 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-19 09:33:05 INFO  com.app.main.Main  - 2 . See a products
+[main] 2021-08-19 09:33:05 INFO  com.app.main.Main  - 3 . Delete a product
+[main] 2021-08-19 09:33:05 INFO  com.app.main.Main  - 4 . Search the Details
+[main] 2021-08-19 09:33:05 INFO  com.app.main.Main  - 5 . Update the Status
+[main] 2021-08-19 09:33:05 INFO  com.app.main.Main  - 6 . Exit 
+[main] 2021-08-19 09:33:05 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 09:33:05 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 09:33:35 INFO  com.app.main.Main  - See All the Product List
+[main] 2021-08-19 09:33:35 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:33:35 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 09:33:35 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 09:33:35 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:33:35 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 09:33:35 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 09:33:35 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 09:33:35 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 09:33:35 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:33:35 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 09:36:45 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:36:45 INFO  com.app.main.Main  - Welcome to Safe Buy app 1.0
+[main] 2021-08-19 09:36:45 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:36:45 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:36:45 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 09:36:45 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 09:36:45 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:36:45 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 09:36:45 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 09:36:45 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 09:36:45 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 09:36:45 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:36:45 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 09:36:47 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-19 09:36:47 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-19 09:36:47 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-19 09:36:47 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-19 09:36:56 INFO  com.app.main.Main  - Oops...wrong try....
+[main] 2021-08-19 09:36:56 INFO  com.app.main.Main  - See All the Product List
+[main] 2021-08-19 09:37:01 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:37:01 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 09:37:01 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 09:37:01 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:37:01 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 09:37:01 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 09:37:01 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 09:37:01 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 09:37:01 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:37:01 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 09:37:03 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-19 09:37:03 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-19 09:37:03 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-19 09:37:03 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-19 09:37:04 INFO  com.app.main.Main  - Oops...wrong try....
+[main] 2021-08-19 09:37:04 INFO  com.app.main.Main  - See All the Product List
+[main] 2021-08-19 09:37:04 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:37:04 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 09:37:04 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 09:37:04 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:37:04 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 09:37:04 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 09:37:04 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 09:37:04 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 09:37:04 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:37:04 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 09:39:47 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:39:47 INFO  com.app.main.Main  - Welcome to Safe Buy app 1.0
+[main] 2021-08-19 09:39:47 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:39:47 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:39:47 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 09:39:47 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 09:39:47 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:39:47 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 09:39:47 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 09:39:47 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 09:39:47 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 09:39:47 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:39:47 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 09:39:52 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-19 09:39:52 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-19 09:39:52 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-19 09:39:52 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-19 09:40:02 INFO  com.app.main.Main  - Password
+[main] 2021-08-19 09:40:13 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-19 09:40:13 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-19 09:40:13 INFO  com.app.main.Main  - =============================
+[main] 2021-08-19 09:40:13 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-19 09:40:13 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 09:40:13 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-19 09:40:13 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 09:40:13 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-19 09:40:13 INFO  com.app.main.Main  - 2 . See a products
+[main] 2021-08-19 09:40:13 INFO  com.app.main.Main  - 3 . Delete a product
+[main] 2021-08-19 09:40:13 INFO  com.app.main.Main  - 4 . Search the Details
+[main] 2021-08-19 09:40:13 INFO  com.app.main.Main  - 5 . Update the Status
+[main] 2021-08-19 09:40:13 INFO  com.app.main.Main  - 6 . Exit 
+[main] 2021-08-19 09:40:13 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 09:40:13 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 09:40:16 INFO  com.app.main.Main  - See All the Product List
+[main] 2021-08-19 09:40:17 WARN  com.app.main.Main  - Internal Error Occured,Please contact sysadmin
+[main] 2021-08-19 09:40:17 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:40:17 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 09:40:17 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 09:40:17 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:40:17 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 09:40:17 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 09:40:17 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 09:40:17 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 09:40:17 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:40:17 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 09:50:10 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:50:10 INFO  com.app.main.Main  - Welcome to Safe Buy app 1.0
+[main] 2021-08-19 09:50:10 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:50:10 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:50:10 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 09:50:10 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 09:50:10 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:50:10 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 09:50:10 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 09:50:10 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 09:50:10 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 09:50:10 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:50:10 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 09:50:31 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-19 09:50:31 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-19 09:50:31 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-19 09:50:31 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-19 09:50:40 INFO  com.app.main.Main  - Password
+[main] 2021-08-19 09:50:52 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-19 09:50:52 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-19 09:50:52 INFO  com.app.main.Main  - =============================
+[main] 2021-08-19 09:50:52 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-19 09:50:52 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 09:50:52 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-19 09:50:52 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 09:50:52 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-19 09:50:52 INFO  com.app.main.Main  - 2 . See a products
+[main] 2021-08-19 09:50:52 INFO  com.app.main.Main  - 3 . Delete a product
+[main] 2021-08-19 09:50:52 INFO  com.app.main.Main  - 4 . Search the Details
+[main] 2021-08-19 09:50:52 INFO  com.app.main.Main  - 5 . Update the Status
+[main] 2021-08-19 09:50:52 INFO  com.app.main.Main  - 6 . Exit 
+[main] 2021-08-19 09:50:52 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 09:50:52 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 09:50:55 INFO  com.app.main.Main  - See All the Product List
+[main] 2021-08-19 09:50:55 WARN  com.app.main.Main  - Internal Error Occured,Please contact sysadmin
+[main] 2021-08-19 09:50:55 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:50:55 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 09:50:55 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 09:50:55 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:50:55 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 09:50:55 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 09:50:55 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 09:50:55 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 09:50:55 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:50:55 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 09:52:50 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-19 09:52:50 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-19 09:52:50 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-19 09:52:50 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-19 09:52:58 INFO  com.app.main.Main  - Password
+[main] 2021-08-19 09:53:05 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-19 09:53:05 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-19 09:53:05 INFO  com.app.main.Main  - =============================
+[main] 2021-08-19 09:53:05 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-19 09:53:05 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 09:53:05 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-19 09:53:05 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 09:53:05 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-19 09:53:05 INFO  com.app.main.Main  - 2 . See a products
+[main] 2021-08-19 09:53:05 INFO  com.app.main.Main  - 3 . Delete a product
+[main] 2021-08-19 09:53:05 INFO  com.app.main.Main  - 4 . Search the Details
+[main] 2021-08-19 09:53:05 INFO  com.app.main.Main  - 5 . Update the Status
+[main] 2021-08-19 09:53:05 INFO  com.app.main.Main  - 6 . Exit 
+[main] 2021-08-19 09:53:05 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 09:53:05 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 09:53:07 INFO  com.app.main.Main  - Add product
+[main] 2021-08-19 09:53:07 INFO  com.app.main.Main  - ***********
+[main] 2021-08-19 09:53:07 INFO  com.app.main.Main  - Type_Ids 1-Mobile,2-HeadPhones,3-PowerBank,4-Cards and Drives,5-Cables
+[main] 2021-08-19 09:53:07 INFO  com.app.main.Main  - Product Name : 
+[main] 2021-08-19 09:59:48 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:59:48 INFO  com.app.main.Main  - Welcome to Safe Buy app 1.0
+[main] 2021-08-19 09:59:48 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:59:48 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:59:48 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 09:59:48 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 09:59:48 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:59:48 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 09:59:48 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 09:59:48 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 09:59:48 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 09:59:48 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 09:59:48 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 09:59:51 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-19 09:59:51 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-19 09:59:51 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-19 09:59:51 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-19 10:00:03 INFO  com.app.main.Main  - Password
+[main] 2021-08-19 10:00:12 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-19 10:00:12 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-19 10:00:12 INFO  com.app.main.Main  - =============================
+[main] 2021-08-19 10:00:12 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-19 10:00:12 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 10:00:12 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-19 10:00:12 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 10:00:12 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-19 10:00:12 INFO  com.app.main.Main  - 2 . See a products
+[main] 2021-08-19 10:00:12 INFO  com.app.main.Main  - 3 . Delete a product
+[main] 2021-08-19 10:00:12 INFO  com.app.main.Main  - 4 . Search the Details
+[main] 2021-08-19 10:00:12 INFO  com.app.main.Main  - 5 . Update the Status
+[main] 2021-08-19 10:00:12 INFO  com.app.main.Main  - 6 . Exit 
+[main] 2021-08-19 10:00:12 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 10:00:12 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 10:00:15 INFO  com.app.main.Main  - See All the Product List
+[main] 2021-08-19 10:00:16 WARN  com.app.main.Main  - Internal Error Occured,Please contact sysadmin
+[main] 2021-08-19 10:00:16 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 10:00:16 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 10:00:16 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 10:00:16 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 10:00:16 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 10:00:16 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 10:00:16 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 10:00:16 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 10:00:16 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 10:00:16 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 10:08:55 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 10:08:55 INFO  com.app.main.Main  - Welcome to Safe Buy app 1.0
+[main] 2021-08-19 10:08:55 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 10:08:55 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 10:08:55 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 10:08:55 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 10:08:55 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 10:08:55 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 10:08:55 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 10:08:55 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 10:08:55 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 10:08:55 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 10:08:55 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 10:09:01 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-19 10:09:01 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-19 10:09:01 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-19 10:09:01 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-19 10:09:10 INFO  com.app.main.Main  - Password
+[main] 2021-08-19 10:09:20 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-19 10:09:20 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-19 10:09:20 INFO  com.app.main.Main  - =============================
+[main] 2021-08-19 10:09:20 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-19 10:09:20 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 10:09:20 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-19 10:09:20 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 10:09:20 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-19 10:09:20 INFO  com.app.main.Main  - 2 . See a products
+[main] 2021-08-19 10:09:20 INFO  com.app.main.Main  - 3 . Delete a product
+[main] 2021-08-19 10:09:20 INFO  com.app.main.Main  - 4 . Search the Details
+[main] 2021-08-19 10:09:20 INFO  com.app.main.Main  - 5 . Update the Status
+[main] 2021-08-19 10:09:20 INFO  com.app.main.Main  - 6 . Exit 
+[main] 2021-08-19 10:09:20 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 10:09:20 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 10:09:25 INFO  com.app.main.Main  - See All the Product List
+[main] 2021-08-19 10:09:25 WARN  com.app.main.Main  - Internal Error Occured,Please contact sysadmin
+[main] 2021-08-19 10:09:25 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 10:09:25 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 10:09:25 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 10:09:25 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 10:09:25 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 10:09:25 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 10:09:25 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 10:09:25 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 10:09:25 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 10:09:25 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 10:26:09 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 10:26:09 INFO  com.app.main.Main  - Welcome to Safe Buy app 1.0
+[main] 2021-08-19 10:26:09 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 10:26:09 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 10:26:09 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 10:26:09 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 10:26:09 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 10:26:09 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 10:26:09 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 10:26:09 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 10:26:09 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 10:26:09 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 10:26:09 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 10:26:12 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-19 10:26:12 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-19 10:26:12 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-19 10:26:12 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-19 10:26:19 INFO  com.app.main.Main  - Password
+[main] 2021-08-19 10:26:38 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-19 10:26:38 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-19 10:26:38 INFO  com.app.main.Main  - =============================
+[main] 2021-08-19 10:26:38 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-19 10:26:38 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 10:26:38 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-19 10:26:38 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 10:26:38 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-19 10:26:38 INFO  com.app.main.Main  - 2 . See a products
+[main] 2021-08-19 10:26:38 INFO  com.app.main.Main  - 3 . Delete a product
+[main] 2021-08-19 10:26:38 INFO  com.app.main.Main  - 4 . Search the Details
+[main] 2021-08-19 10:26:38 INFO  com.app.main.Main  - 5 . Update the Status
+[main] 2021-08-19 10:26:38 INFO  com.app.main.Main  - 6 . Exit 
+[main] 2021-08-19 10:26:38 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 10:26:38 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 10:26:41 INFO  com.app.main.Main  - See All the Product List
+[main] 2021-08-19 10:26:41 WARN  com.app.main.Main  - Internal Error Occured,Please contact sysadmin
+[main] 2021-08-19 10:26:41 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 10:26:41 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 10:26:41 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 10:26:41 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 10:26:41 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 10:26:41 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 10:26:41 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 10:26:41 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 10:26:41 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 10:26:41 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 11:07:42 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 11:07:42 INFO  com.app.main.Main  - Welcome to Safe Buy app 1.0
+[main] 2021-08-19 11:07:42 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 11:07:42 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 11:07:42 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 11:07:42 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 11:07:42 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 11:07:42 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 11:07:42 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 11:07:42 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 11:07:42 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 11:07:42 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 11:07:42 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 11:07:44 INFO  com.app.main.Main  - Hiii Employee
+[main] 2021-08-19 11:07:44 INFO  com.app.main.Main  - Please Sign in.... 
+[main] 2021-08-19 11:07:44 INFO  com.app.main.Main  - Enter the Details Below
+[main] 2021-08-19 11:07:44 INFO  com.app.main.Main  - EmailId :
+[main] 2021-08-19 11:07:55 INFO  com.app.main.Main  - Password
+[main] 2021-08-19 11:08:07 INFO  com.app.main.Main  - Account logged in successfully
+[main] 2021-08-19 11:08:07 INFO  com.app.main.Main  - Hi There......
+[main] 2021-08-19 11:08:07 INFO  com.app.main.Main  - =============================
+[main] 2021-08-19 11:08:07 INFO  com.app.main.Main  - Welcome back.........
+[main] 2021-08-19 11:08:07 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 11:08:07 INFO  com.app.main.Main  - Main Menu
+[main] 2021-08-19 11:08:07 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 11:08:07 INFO  com.app.main.Main  - 1 . Add a new product
+[main] 2021-08-19 11:08:07 INFO  com.app.main.Main  - 2 . See a products
+[main] 2021-08-19 11:08:07 INFO  com.app.main.Main  - 3 . Delete a product
+[main] 2021-08-19 11:08:07 INFO  com.app.main.Main  - 4 . Search the Details
+[main] 2021-08-19 11:08:07 INFO  com.app.main.Main  - 5 . Update the Status
+[main] 2021-08-19 11:08:07 INFO  com.app.main.Main  - 6 . Exit 
+[main] 2021-08-19 11:08:07 INFO  com.app.main.Main  - ==============================
+[main] 2021-08-19 11:08:07 INFO  com.app.main.Main  - Enter your choice Between (1-4)
+[main] 2021-08-19 11:08:09 INFO  com.app.main.Main  - See All the Product List
+[main] 2021-08-19 11:08:09 WARN  com.app.main.Main  - Internal Error Occured,Please contact sysadmin
+[main] 2021-08-19 11:08:09 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 11:08:09 INFO  com.app.main.Main  - *****Buy Things Safely*****
+[main] 2021-08-19 11:08:09 INFO  com.app.main.Main  - ......please Login......
+[main] 2021-08-19 11:08:09 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 11:08:09 INFO  com.app.main.Main  - 1.Create User
+[main] 2021-08-19 11:08:09 INFO  com.app.main.Main  - 2.Employee Login
+[main] 2021-08-19 11:08:09 INFO  com.app.main.Main  - 3.customer Login
+[main] 2021-08-19 11:08:09 INFO  com.app.main.Main  - 4.Exit
+[main] 2021-08-19 11:08:09 INFO  com.app.main.Main  - ----------------------------
+[main] 2021-08-19 11:08:09 INFO  com.app.main.Main  - Enter your choice Between (1-4)

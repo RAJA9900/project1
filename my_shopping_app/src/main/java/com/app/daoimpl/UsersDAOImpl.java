@@ -46,23 +46,27 @@ public class UsersDAOImpl implements UsersDAO {
 
 
 	@Override
-	public User checkUser(String Email,String Password ,int Type_id) throws BusinessException {
-		 User user =null;
+	public boolean checkUser(String Email,String Password ,int type_id) throws BusinessException {
+		 boolean  result= false;
 		 try(Connection connection =MySqlDbConnection.getConnection()){
 			 String sql="SELECT firstName , lastName from users where email=? and password=? and type_id=?;";
 			 PreparedStatement preparedStatement=connection.prepareStatement(sql);
 			 preparedStatement.setString(1,Email);
 			 preparedStatement.setString(2,Password);
-			 preparedStatement.setInt(3,Type_id);
+			 preparedStatement.setInt(3,type_id);
 			 
 			 ResultSet resultSet=preparedStatement.executeQuery();
 			 if (resultSet.next())
 			 {
-				 user.setFirstName(resultSet.getString("firstName"));
-				 user.setLastName(resultSet.getString("lastName"));
+				 //user.setFirstName(resultSet.getString("firstName"));
+				 //user.setLastName(resultSet.getString("lastName"));
+	              result=true;		 
 			 }
-			 else
+			 
+			 else	
 			 {
+				 log.warn("Enter correct credential");
+					
 				 throw new BusinessException("We could not find any matches...please register and login again..");
 			 }
 			 
@@ -72,7 +76,7 @@ public class UsersDAOImpl implements UsersDAO {
 			 log.error(e);
 			 throw new BusinessException("Internal Error Occured contact SysAdmin");
 		}
-		return user;
+		return result;
 	}
 	
 	

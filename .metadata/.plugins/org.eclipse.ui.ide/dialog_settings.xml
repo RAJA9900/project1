@@ -47,6 +47,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\ELCOT\Desktop\Revature\revature_India_26th_July_13Week\Week3(SQL,JDBC)\jdbc_demos\player_app"/>
 			<item value="D:\Revature Java practice"/>
 		</list>
 	</section>

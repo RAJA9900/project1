@@ -20,11 +20,11 @@ public class UsersServiceImpl implements UsersService {
 
 
 	@Override
-	public User checkUser(String Email, String Password,int type_id) throws BusinessException {
+	public boolean checkUser(String Email, String Password,int type_id) throws BusinessException {
 		
-		User user=null;
+		//User user=null;
 
-		user=usersDAO.checkUser( Email, Password,type_id);
+		boolean user=usersDAO.checkUser( Email, Password,type_id);
 		
 		return user;
 	}

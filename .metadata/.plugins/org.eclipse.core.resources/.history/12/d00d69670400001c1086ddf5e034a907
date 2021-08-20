@@ -1,0 +1,11 @@
+package com.app.daoimpl;
+
+import com.app.exception.BusinessException;
+import com.app.model.Product;
+
+public class ProductDAOImpl {
+	
+	public int createProduct(Product product) throws BusinessException;
+	public int deleteProduct(Product product) throws BusinessException;
+
+}
